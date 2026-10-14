@@ -1,0 +1,264 @@
+departamento_original,distrito_original,departamento_canonico,distrito_canonico,codigo_departamento,codigo_distrito,metodo_de_enlace,clave_distrito
+Alto Paraguay,Bahía Negra,Alto Paraguay,Bahía Negra,17.0,4.0,Exacto,17-4
+Alto Paraguay,Carmelo Peralta,Alto Paraguay,Carmelo Peralta,17.0,5.0,Exacto,17-5
+Alto Paraguay,Fuerte Olimpo,Alto Paraguay,Fuerte Olimpo,17.0,1.0,Exacto,17-1
+Alto Paraguay,Puerto Casado,Alto Paraguay,Puerto Casado,17.0,2.0,Exacto,17-2
+Alto Paraná,Ciudad del Este,Alto Paraná,Ciudad del Este,10.0,1.0,Exacto,10-1
+Alto Paraná,Domingo Martínez de Irala,Alto Paraná,Domingo Martínez de Irala,10.0,3.0,Exacto,10-3
+Alto Paraná,Dr. Juan León Mallorquín,Alto Paraná,Dr. Juan León Mallorquín,10.0,4.0,Exacto,10-4
+Alto Paraná,Dr. Raúl Peña,Alto Paraná,Dr. Raúl Peña,10.0,22.0,Exacto,10-22
+Alto Paraná,Hernandarias,Alto Paraná,Hernandarias,10.0,5.0,Exacto,10-5
+Alto Paraná,Iruña,Alto Paraná,Iruña,10.0,19.0,Exacto,10-19
+Alto Paraná,Itakyry,Alto Paraná,Itakyry,10.0,6.0,Exacto,10-6
+Alto Paraná,Juan E. O'Leary,Alto Paraná,Juan E. O'Leary,10.0,7.0,Exacto,10-7
+Alto Paraná,Los Cedrales,Alto Paraná,Los Cedrales,10.0,10.0,Exacto,10-10
+Alto Paraná,Mbaracayú,Alto Paraná,Mbaracayú,10.0,17.0,Exacto,10-17
+Alto Paraná,Minga Guazú,Alto Paraná,Minga Guazú,10.0,11.0,Exacto,10-11
+Alto Paraná,Minga Porã,Alto Paraná,Minga Porá,10.0,16.0,Alias de distrito,10-16
+Alto Paraná,Ñacunday,Alto Paraná,Ñacunday,10.0,8.0,Exacto,10-8
+Alto Paraná,Naranjal,Alto Paraná,Naranjal,10.0,14.0,Exacto,10-14
+Alto Paraná,Presidente Franco,Alto Paraná,Presidente Franco,10.0,2.0,Exacto,10-2
+Alto Paraná,San Alberto,Alto Paraná,San Alberto,10.0,18.0,Exacto,10-18
+Alto Paraná,San Cristóbal,Alto Paraná,San Cristóbal,10.0,12.0,Exacto,10-12
+Alto Paraná,Santa Fe del Paraná,Alto Paraná,Santa Fe del Paraná,10.0,20.0,Exacto,10-20
+Alto Paraná,Santa Rita,Alto Paraná,Santa Rita,10.0,13.0,Exacto,10-13
+Alto Paraná,Santa Rosa del Monday,Alto Paraná,Santa Rosa del Monday,10.0,15.0,Exacto,10-15
+Alto Paraná,Tavapy,Alto Paraná,Tavapy,10.0,21.0,Exacto,10-21
+Alto Paraná,Yguazú,Alto Paraná,Yguazú,10.0,9.0,Exacto,10-9
+Amambay,Bella Vista,Amambay,Bella Vista,13.0,2.0,Exacto,13-2
+Amambay,Capitán Bado,Amambay,Capitán Bado,13.0,3.0,Exacto,13-3
+Amambay,Cerro Corá,Amambay,Cerro Corá,13.0,6.0,Exacto,13-6
+Amambay,Karapai,Amambay,Karapai,13.0,5.0,Exacto,13-5
+Amambay,Pedro Juan Caballero,Amambay,Pedro Juan Caballero,13.0,1.0,Exacto,13-1
+Amambay,Zanja Pyta,Amambay,Zanja Pyta,13.0,4.0,Exacto,13-4
+Asunción,Asunción,Capital,Asunción,0.0,0.0,Homologación departamental,0-0
+Boquerón,Boquerón,Boquerón,Boquerón,16.0,6.0,Exacto,16-6
+Boquerón,Filadelfia,Boquerón,Filadelfia,16.0,4.0,Exacto,16-4
+Boquerón,Loma Plata,Boquerón,Loma Plata,16.0,5.0,Exacto,16-5
+Boquerón,Mariscal José Félix Estigarribia,Boquerón,Mariscal Estigarribia,16.0,2.0,Alias de distrito,16-2
+Caaguazú,3 de Febrero,Caaguazú,3 de Febrero,5.0,18.0,Exacto,5-18
+Caaguazú,Caaguazú,Caaguazú,Caaguazú,5.0,2.0,Exacto,5-2
+Caaguazú,Carayaó,Caaguazú,Carayaó,5.0,3.0,Exacto,5-3
+Caaguazú,Coronel Oviedo,Caaguazú,Coronel Oviedo,5.0,1.0,Exacto,5-1
+Caaguazú,Dr. Cecilio Báez,Caaguazú,Dr. Cecilio Báez,5.0,4.0,Exacto,5-4
+Caaguazú,Dr. Juan Eulogio Estigarribia,Caaguazú,Dr. Juan Eulogio Estigarribia,5.0,12.0,Exacto,5-12
+Caaguazú,Dr. Juan Manuel Frutos,Caaguazú,Dr. Juan Manuel Frutos,5.0,6.0,Exacto,5-6
+Caaguazú,José Domingo Ocampos,Caaguazú,José Domingo Ocampos,5.0,15.0,Exacto,5-15
+Caaguazú,La Pastora,Caaguazú,La Pastora,5.0,17.0,Exacto,5-17
+Caaguazú,Mariscal Francisco Solano López,Caaguazú,Mariscal Francisco Solano López,5.0,16.0,Exacto,5-16
+Caaguazú,Nueva Londres,Caaguazú,Nueva Londres,5.0,8.0,Exacto,5-8
+Caaguazú,Nueva Toledo,Caaguazú,Nueva Toledo,5.0,22.0,Exacto,5-22
+Caaguazú,R.I. 3 Corrales,Caaguazú,R.I. 3 Corrales,5.0,13.0,Exacto,5-13
+Caaguazú,Raúl Arsenio Oviedo,Caaguazú,Raúl Arsenio Oviedo,5.0,14.0,Exacto,5-14
+Caaguazú,Repatriación,Caaguazú,Repatriación,5.0,7.0,Exacto,5-7
+Caaguazú,San Joaquín,Caaguazú,San Joaquín,5.0,9.0,Exacto,5-9
+Caaguazú,San José de los Arroyos,Caaguazú,San José de los Arroyos,5.0,10.0,Exacto,5-10
+Caaguazú,Santa Rosa del Mbutuy,Caaguazú,Santa Rosa del Mbutuy,5.0,5.0,Exacto,5-5
+Caaguazú,Simón Bolívar,Caaguazú,Simón Bolívar,5.0,19.0,Exacto,5-19
+Caaguazú,Tembiaporá,Caaguazú,Tembiaporá,5.0,21.0,Exacto,5-21
+Caaguazú,Vaquería,Caaguazú,Vaquería,5.0,20.0,Exacto,5-20
+Caaguazú,Yhú,Caaguazú,Yhú,5.0,11.0,Exacto,5-11
+Caazapá,3 de Mayo,Caazapá,3 de Mayo,6.0,11.0,Exacto,6-11
+Caazapá,Abaí,Caazapá,Abaí,6.0,2.0,Exacto,6-2
+Caazapá,Buena Vista,Caazapá,Buena Vista,6.0,3.0,Exacto,6-3
+Caazapá,Caazapá,Caazapá,Caazapá,6.0,1.0,Exacto,6-1
+Caazapá,Dr. Moisés S. Bertoni,Caazapá,Dr. Moisés S. Bertoni,6.0,4.0,Exacto,6-4
+Caazapá,Fulgencio Yegros,Caazapá,Fulgencio Yegros,6.0,9.0,Exacto,6-9
+Caazapá,General Higinio Morínigo,Caazapá,General Higinio Morínigo,6.0,5.0,Exacto,6-5
+Caazapá,Maciel,Caazapá,Maciel,6.0,6.0,Exacto,6-6
+Caazapá,San Juan Nepomuceno,Caazapá,San Juan Nepomuceno,6.0,7.0,Exacto,6-7
+Caazapá,Tavaí,Caazapá,Tavaí,6.0,8.0,Exacto,6-8
+Caazapá,Yuty,Caazapá,Yuty,6.0,10.0,Exacto,6-10
+Canindeyú,Corpus Christi,Canindeyú,Corpus Christi,14.0,2.0,Exacto,14-2
+Canindeyú,Curuguaty,Canindeyú,Curuguaty,14.0,3.0,Exacto,14-3
+Canindeyú,Francisco Caballero Alvarez,Canindeyú,Francisco Caballero Alvarez,14.0,7.0,Exacto,14-7
+Canindeyú,Itanará,Canindeyú,Itanará,14.0,5.0,Exacto,14-5
+Canindeyú,Katueté,Canindeyú,Katueté,14.0,8.0,Exacto,14-8
+Canindeyú,La Paloma del Espíritu Santo,Canindeyú,La Paloma del Espíritu Santo,14.0,9.0,Exacto,14-9
+Canindeyú,Laurel,Canindeyú,Laurel,14.0,16.0,Exacto,14-16
+Canindeyú,Maracana,Canindeyú,Maracana,14.0,14.0,Exacto,14-14
+Canindeyú,Nueva Esperanza,Canindeyú,Nueva Esperanza,14.0,10.0,Exacto,14-10
+Canindeyú,Puerto Adela,Canindeyú,Puerto Adela,14.0,15.0,Exacto,14-15
+Canindeyú,Salto del Guairá,Canindeyú,Salto del Guairá,14.0,1.0,Exacto,14-1
+Canindeyú,Villa Ygatimí,Canindeyú,Villa Ygatimí,14.0,4.0,Exacto,14-4
+Canindeyú,Yasy Cañy,Canindeyú,Yasy Cañy,14.0,11.0,Exacto,14-11
+Canindeyú,Yby Pyta,Canindeyú,Yby Pyta,14.0,13.0,Exacto,14-13
+Canindeyú,Ybyrarovaná,Canindeyú,Ybyrarovaná,14.0,12.0,Exacto,14-12
+Canindeyú,Ypejhú,Canindeyú,Ypehú,14.0,6.0,Alias de distrito,14-6
+Central,Areguá,Central,Areguá,11.0,1.0,Exacto,11-1
+Central,Capiatá,Central,Capiatá,11.0,2.0,Exacto,11-2
+Central,Fernando de la Mora,Central,Fernando de la Mora,11.0,3.0,Exacto,11-3
+Central,Guarambaré,Central,Guarambaré,11.0,4.0,Exacto,11-4
+Central,Itá,Central,Itá,11.0,5.0,Exacto,11-5
+Central,Itauguá,Central,Itauguá,11.0,6.0,Exacto,11-6
+Central,Julián Augusto Saldívar,Central,Julián Augusto Saldívar,11.0,19.0,Exacto,11-19
+Central,Lambaré,Central,Lambaré,11.0,7.0,Exacto,11-7
+Central,Limpio,Central,Limpio,11.0,8.0,Exacto,11-8
+Central,Luque,Central,Luque,11.0,9.0,Exacto,11-9
+Central,Mariano Roque Alonso,Central,Mariano Roque Alonso,11.0,10.0,Exacto,11-10
+Central,Ñemby,Central,Ñemby,11.0,12.0,Exacto,11-12
+Central,Nueva Italia,Central,Nueva Italia,11.0,11.0,Exacto,11-11
+Central,San Antonio,Central,San Antonio,11.0,13.0,Exacto,11-13
+Central,San Lorenzo,Central,San Lorenzo,11.0,14.0,Exacto,11-14
+Central,Villa Elisa,Central,Villa Elisa,11.0,15.0,Exacto,11-15
+Central,Villeta,Central,Villeta,11.0,16.0,Exacto,11-16
+Central,Ypacaraí,Central,Ypacaraí,11.0,17.0,Exacto,11-17
+Central,Ypané,Central,Ypané,11.0,18.0,Exacto,11-18
+Concepción,Arroyito,Concepción,Arroyito,1.0,12.0,Exacto,1-12
+Concepción,Azotey,Concepción,Azotey,1.0,8.0,Exacto,1-8
+Concepción,Belén,Concepción,Belén,1.0,2.0,Exacto,1-2
+Concepción,Concepción,Concepción,Concepción,1.0,1.0,Exacto,1-1
+Concepción,Horqueta,Concepción,Horqueta,1.0,3.0,Exacto,1-3
+Concepción,Itacuá,Concepción,Itacuá,1.0,14.0,Exacto,1-14
+Concepción,Loreto,Concepción,Loreto,1.0,4.0,Exacto,1-4
+Concepción,Paso Barreto,Concepción,Paso Barreto,1.0,11.0,Exacto,1-11
+Concepción,Paso Horqueta,Concepción,Paso Horqueta,1.0,13.0,Exacto,1-13
+Concepción,San Alfredo,Concepción,San Alfredo,1.0,10.0,Exacto,1-10
+Concepción,San Carlos del Apa,Concepción,San Carlos del Apa,1.0,5.0,Exacto,1-5
+Concepción,San Lázaro,Concepción,San Lázaro,1.0,6.0,Exacto,1-6
+Concepción,Sargento José Félix López,Concepción,Sargento José Félix López,1.0,9.0,Exacto,1-9
+Concepción,Yby Yaú,Concepción,Yby Yaú,1.0,7.0,Exacto,1-7
+Cordillera,1ro. de Marzo,Cordillera,1º de Marzo,3.0,15.0,Alias de distrito,3-15
+Cordillera,Altos,Cordillera,Altos,3.0,2.0,Exacto,3-2
+Cordillera,Arroyos y Esteros,Cordillera,Arroyos y Esteros,3.0,3.0,Exacto,3-3
+Cordillera,Atyrá,Cordillera,Atyrá,3.0,4.0,Exacto,3-4
+Cordillera,Caacupé,Cordillera,Caacupé,3.0,1.0,Exacto,3-1
+Cordillera,Caraguatay,Cordillera,Caraguatay,3.0,5.0,Exacto,3-5
+Cordillera,Emboscada,Cordillera,Emboscada,3.0,6.0,Exacto,3-6
+Cordillera,Eusebio Ayala,Cordillera,Eusebio Ayala,3.0,7.0,Exacto,3-7
+Cordillera,Isla Pucú,Cordillera,Isla Pucú,3.0,8.0,Exacto,3-8
+Cordillera,Itacurubí de la Cordillera,Cordillera,Itacurubí de la Cordillera,3.0,9.0,Exacto,3-9
+Cordillera,Juan de Mena,Cordillera,Juan de Mena,3.0,10.0,Exacto,3-10
+Cordillera,Loma Grande,Cordillera,Loma Grande,3.0,11.0,Exacto,3-11
+Cordillera,Mbocayaty del Yhaguy,Cordillera,Mbocayaty del Yhaguy,3.0,12.0,Exacto,3-12
+Cordillera,Nueva Colombia,Cordillera,Nueva Colombia,3.0,13.0,Exacto,3-13
+Cordillera,Piribebuy,Cordillera,Piribebuy,3.0,14.0,Exacto,3-14
+Cordillera,San Bernardino,Cordillera,San Bernardino,3.0,16.0,Exacto,3-16
+Cordillera,San José Obrero,Cordillera,San José Obrero,3.0,20.0,Exacto,3-20
+Cordillera,Santa Elena,Cordillera,Santa Elena,3.0,17.0,Exacto,3-17
+Cordillera,Tobatí,Cordillera,Tobatí,3.0,18.0,Exacto,3-18
+Cordillera,Valenzuela,Cordillera,Valenzuela,3.0,19.0,Exacto,3-19
+Guairá,Borja,Guairá,Borja,4.0,2.0,Exacto,4-2
+Guairá,Coronel Martínez,Guairá,Coronel Martínez,4.0,4.0,Exacto,4-4
+Guairá,Dr. Bottrell,Guairá,Dr. Bottrell,4.0,16.0,Exacto,4-16
+Guairá,Félix Pérez Cardozo,Guairá,Félix Pérez Cardozo,4.0,5.0,Exacto,4-5
+Guairá,General Eugenio A. Garay,Guairá,General Eugenio A. Garay,4.0,6.0,Exacto,4-6
+Guairá,Independencia,Guairá,Independencia,4.0,7.0,Exacto,4-7
+Guairá,Itapé,Guairá,Itapé,4.0,8.0,Exacto,4-8
+Guairá,Iturbe,Guairá,Iturbe,4.0,9.0,Exacto,4-9
+Guairá,José Fassardi,Guairá,José Fassardi,4.0,10.0,Exacto,4-10
+Guairá,Mauricio José Troche,Guairá,Mauricio José Troche,4.0,3.0,Exacto,4-3
+Guairá,Mbocayaty,Guairá,Mbocayaty,4.0,11.0,Exacto,4-11
+Guairá,Natalicio Talavera,Guairá,Natalicio Talavera,4.0,12.0,Exacto,4-12
+Guairá,Ñumí,Guairá,Ñumí,4.0,13.0,Exacto,4-13
+Guairá,Paso Yobai,Guairá,Paso Yobai,4.0,17.0,Exacto,4-17
+Guairá,San Salvador,Guairá,San Salvador,4.0,14.0,Exacto,4-14
+Guairá,Tebicuary,Guairá,Tebicuary,4.0,18.0,Exacto,4-18
+Guairá,Villarrica,Guairá,Villarrica,4.0,1.0,Exacto,4-1
+Guairá,Yataity,Guairá,Yataity,4.0,15.0,Exacto,4-15
+Itapúa,Alto Verá,Itapúa,Alto Verá,7.0,25.0,Exacto,7-25
+Itapúa,Bella Vista,Itapúa,Bella Vista,7.0,2.0,Exacto,7-2
+Itapúa,Cambyretá,Itapúa,Cambyretá,7.0,3.0,Exacto,7-3
+Itapúa,Capitán Meza,Itapúa,Capitán Meza,7.0,4.0,Exacto,7-4
+Itapúa,Capitán Miranda,Itapúa,Capitán Miranda,7.0,5.0,Exacto,7-5
+Itapúa,Carlos Antonio López,Itapúa,Carlos Antonio López,7.0,9.0,Exacto,7-9
+Itapúa,Carmen del Paraná,Itapúa,Carmen del Paraná,7.0,7.0,Exacto,7-7
+Itapúa,Coronel Bogado,Itapúa,Coronel Bogado,7.0,8.0,Exacto,7-8
+Itapúa,Edelira,Itapúa,Edelira,7.0,23.0,Exacto,7-23
+Itapúa,Encarnación,Itapúa,Encarnación,7.0,1.0,Exacto,7-1
+Itapúa,Fram,Itapúa,Fram,7.0,11.0,Exacto,7-11
+Itapúa,General Artigas,Itapúa,General Artigas,7.0,12.0,Exacto,7-12
+Itapúa,General Delgado,Itapúa,General Delgado,7.0,13.0,Exacto,7-13
+Itapúa,Hohenau,Itapúa,Hohenau,7.0,14.0,Exacto,7-14
+Itapúa,Itapúa Poty,Itapúa,Itapúa Poty,7.0,30.0,Exacto,7-30
+Itapúa,Jesús,Itapúa,Jesús,7.0,15.0,Exacto,7-15
+Itapúa,José Leandro Oviedo,Itapúa,José Leandro Oviedo,7.0,16.0,Exacto,7-16
+Itapúa,La Paz,Itapúa,La Paz,7.0,26.0,Exacto,7-26
+Itapúa,Mayor Julio Dionisio Otaño,Itapúa,Mayor Julio Dionisio Otaño,7.0,18.0,Exacto,7-18
+Itapúa,Natalio,Itapúa,Natalio,7.0,10.0,Exacto,7-10
+Itapúa,Nueva Alborada,Itapúa,Nueva Alborada,7.0,6.0,Exacto,7-6
+Itapúa,Obligado,Itapúa,Obligado,7.0,17.0,Exacto,7-17
+Itapúa,Pirapó,Itapúa,Pirapó,7.0,29.0,Exacto,7-29
+Itapúa,San Cosme y Damián,Itapúa,San Cosme y Damián,7.0,19.0,Exacto,7-19
+Itapúa,San Juan del  Paraná,Itapúa,San Juan del  Paraná,7.0,28.0,Exacto,7-28
+Itapúa,San Pedro del Paraná,Itapúa,San Pedro del Paraná,7.0,20.0,Exacto,7-20
+Itapúa,San Rafael del Paraná,Itapúa,San Rafael del Paraná,7.0,21.0,Exacto,7-21
+Itapúa,Tomás Romero Pereira,Itapúa,Tomás Romero Pereira,7.0,24.0,Exacto,7-24
+Itapúa,Trinidad,Itapúa,Trinidad,7.0,22.0,Exacto,7-22
+Itapúa,Yatytay,Itapúa,Yatytay,7.0,27.0,Exacto,7-27
+Misiones,Ayolas,Misiones,Ayolas,8.0,2.0,Exacto,8-2
+Misiones,San Ignacio,Misiones,San Ignacio,8.0,3.0,Exacto,8-3
+Misiones,San Juan Bautista,Misiones,San Juan Bautista,8.0,1.0,Exacto,8-1
+Misiones,San Miguel,Misiones,San Miguel,8.0,4.0,Exacto,8-4
+Misiones,San Patricio,Misiones,San Patricio,8.0,5.0,Exacto,8-5
+Misiones,Santa María,Misiones,Santa María,8.0,6.0,Exacto,8-6
+Misiones,Santa Rosa,Misiones,Santa Rosa,8.0,7.0,Exacto,8-7
+Misiones,Santiago,Misiones,Santiago,8.0,8.0,Exacto,8-8
+Misiones,Villa Florida,Misiones,Villa Florida,8.0,9.0,Exacto,8-9
+Misiones,Yabebyry,Misiones,Yabebyry,8.0,10.0,Exacto,8-10
+Ñeembucú,Alberdi,Ñeembucú,Alberdi,12.0,2.0,Exacto,12-2
+Ñeembucú,Cerrito,Ñeembucú,Cerrito,12.0,3.0,Exacto,12-3
+Ñeembucú,Desmochados,Ñeembucú,Desmochados,12.0,4.0,Exacto,12-4
+Ñeembucú,General José Eduvigis Díaz,Ñeembucú,General José Eduvigis Díaz,12.0,5.0,Exacto,12-5
+Ñeembucú,Guazú Cuá,Ñeembucú,Guazú Cuá,12.0,6.0,Exacto,12-6
+Ñeembucú,Humaitá,Ñeembucú,Humaitá,12.0,7.0,Exacto,12-7
+Ñeembucú,Isla Umbú,Ñeembucú,Isla Umbú,12.0,8.0,Exacto,12-8
+Ñeembucú,Laureles,Ñeembucú,Laureles,12.0,9.0,Exacto,12-9
+Ñeembucú,Mayor Martínez,Ñeembucú,Mayor Martínez,12.0,10.0,Exacto,12-10
+Ñeembucú,Paso de Patria,Ñeembucú,Paso de Patria,12.0,11.0,Exacto,12-11
+Ñeembucú,Pilar,Ñeembucú,Pilar,12.0,1.0,Exacto,12-1
+Ñeembucú,San Juan Bautista,Ñeembucú,San Juan Bautista,12.0,12.0,Exacto,12-12
+Ñeembucú,Tacuaras,Ñeembucú,Tacuaras,12.0,13.0,Exacto,12-13
+Ñeembucú,Villa Franca,Ñeembucú,Villa Franca,12.0,14.0,Exacto,12-14
+Ñeembucú,Villa Oliva,Ñeembucú,Villa Oliva,12.0,15.0,Exacto,12-15
+Ñeembucú,Villalbín,Ñeembucú,Villalbín,12.0,16.0,Exacto,12-16
+Paraguarí,Acahay,Paraguarí,Acahay,9.0,2.0,Exacto,9-2
+Paraguarí,Caapucú,Paraguarí,Caapucú,9.0,3.0,Exacto,9-3
+Paraguarí,Carapeguá,Paraguarí,Carapeguá,9.0,5.0,Exacto,9-5
+Paraguarí,Escobar,Paraguarí,Escobar,9.0,6.0,Exacto,9-6
+Paraguarí,General Bernardino Caballero,Paraguarí,General Bernardino Caballero,9.0,4.0,Exacto,9-4
+Paraguarí,La Colmena,Paraguarí,La Colmena,9.0,7.0,Exacto,9-7
+Paraguarí,Maria Antonia,Paraguarí,Maria Antonia,9.0,18.0,Exacto,9-18
+Paraguarí,Mbuyapey,Paraguarí,Mbuyapey,9.0,8.0,Exacto,9-8
+Paraguarí,Paraguarí,Paraguarí,Paraguarí,9.0,1.0,Exacto,9-1
+Paraguarí,Pirayú,Paraguarí,Pirayú,9.0,9.0,Exacto,9-9
+Paraguarí,Quiindy,Paraguarí,Quiindy,9.0,10.0,Exacto,9-10
+Paraguarí,Quyquyhó,Paraguarí,Quyquyhó,9.0,11.0,Exacto,9-11
+Paraguarí,San Roque González de Santa Cruz,Paraguarí,San Roque González de Santacruz,9.0,12.0,Alias de distrito,9-12
+Paraguarí,Sapucai,Paraguarí,Sapucai,9.0,13.0,Exacto,9-13
+Paraguarí,Tebicuary-mí,Paraguarí,Tebicuary-mí,9.0,14.0,Exacto,9-14
+Paraguarí,Yaguarón,Paraguarí,Yaguarón,9.0,15.0,Exacto,9-15
+Paraguarí,Ybycuí,Paraguarí,Ybycuí,9.0,16.0,Exacto,9-16
+Paraguarí,Ybytymí,Paraguarí,Ybytymí,9.0,17.0,Exacto,9-17
+Presidente Hayes,Benjamín Aceval,Presidente Hayes,Benjamín Aceval,15.0,2.0,Exacto,15-2
+Presidente Hayes,Campo Aceval,Presidente Hayes,Campo Aceval,15.0,10.0,Exacto,15-10
+Presidente Hayes,General José Maria Bruguez,Presidente Hayes,General Bruguez,15.0,9.0,Alias de distrito,15-9
+Presidente Hayes,José Falcón,Presidente Hayes,José Falcón,15.0,6.0,Exacto,15-6
+Presidente Hayes,Nanawa,Presidente Hayes,Nanawa,15.0,5.0,Exacto,15-5
+Presidente Hayes,Nueva Asunción,Presidente Hayes,Nueva Asunción,15.0,11.0,Exacto,15-11
+Presidente Hayes,Puerto Pinasco,Presidente Hayes,Puerto Pinasco,15.0,3.0,Exacto,15-3
+Presidente Hayes,Teniente Irala Fernández,Presidente Hayes,Teniente Irala Fernández,15.0,7.0,Exacto,15-7
+Presidente Hayes,Tte. Esteban Martínez,Presidente Hayes,Tte. Esteban Martínez,15.0,8.0,Exacto,15-8
+Presidente Hayes,Villa Hayes,Presidente Hayes,Villa Hayes,15.0,4.0,Exacto,15-4
+San Pedro,25 de Diciembre,San Pedro,25 de Diciembre,2.0,12.0,Exacto,2-12
+San Pedro,Antequera,San Pedro,Antequera,2.0,2.0,Exacto,2-2
+San Pedro,Capiibary,San Pedro,Capiibary,2.0,17.0,Exacto,2-17
+San Pedro,Choré,San Pedro,Choré,2.0,3.0,Exacto,2-3
+San Pedro,General Elizardo Aquino,San Pedro,General Elizardo Aquino,2.0,4.0,Exacto,2-4
+San Pedro,General Isidoro Resquín,San Pedro,General Isidoro Resquín,2.0,14.0,Exacto,2-14
+San Pedro,Guayaibi,San Pedro,Guayaibi,2.0,16.0,Exacto,2-16
+San Pedro,Itacurubí del Rosario,San Pedro,Itacurubí del Rosario,2.0,5.0,Exacto,2-5
+San Pedro,Liberación,San Pedro,Liberación,2.0,20.0,Exacto,2-20
+San Pedro,Lima,San Pedro,Lima,2.0,6.0,Exacto,2-6
+San Pedro,Nueva Germania,San Pedro,Nueva Germania,2.0,7.0,Exacto,2-7
+San Pedro,San Estanislao,San Pedro,San Estanislao,2.0,8.0,Exacto,2-8
+San Pedro,San José del Rosario,San Pedro,San José del Rosario,2.0,22.0,Exacto,2-22
+San Pedro,San Pablo,San Pedro,San Pablo,2.0,9.0,Exacto,2-9
+San Pedro,San Pedro del Ycuamandyjú,San Pedro,San Pedro del Ycuamandyjú,2.0,1.0,Exacto,2-1
+San Pedro,San Vicente Pancholo,San Pedro,San Vicente Pancholo,2.0,21.0,Exacto,2-21
+San Pedro,Santa Rosa del Aguaray,San Pedro,Santa Rosa del Aguaray,2.0,18.0,Exacto,2-18
+San Pedro,Tacuati,San Pedro,Tacuati,2.0,10.0,Exacto,2-10
+San Pedro,Unión,San Pedro,Unión,2.0,11.0,Exacto,2-11
+San Pedro,Villa del Rosario,San Pedro,Villa del Rosario,2.0,13.0,Exacto,2-13
+San Pedro,Yataity del Norte,San Pedro,Yataity del Norte,2.0,15.0,Exacto,2-15
+San Pedro,Yrybucuá,San Pedro,Yrybucuá,2.0,19.0,Exacto,2-19

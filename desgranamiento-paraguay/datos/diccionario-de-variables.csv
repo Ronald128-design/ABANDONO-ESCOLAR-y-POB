@@ -1,0 +1,87 @@
+base,variable,etiqueta,fuente,hoja,transformacion,uso,unidad
+m1-corte-2022,fila_origen_corte,Fila origen corte,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,fila_origen_panel_2022,Fila origen panel 2022,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,clave_distrito,Clave distrito,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,codigo_departamento,Código departamento,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,departamento,Departamento,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,codigo_distrito,Código distrito,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,distrito,Distrito,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,matricula_primer_grado,Matrícula primer grado,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,matricula_noveno_grado,Matrícula noveno grado,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,matricula_total,Matrícula total,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,numero_de_instituciones,Número de instituciones,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,proporcion_urbana,Proporción urbana,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,proporcion_oficial,Proporción oficial,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,retencion_g9_g1,Retención G9/G1,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,desgranamiento,Desgranamiento,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,privacion_educativa_relativa,Privación educativa relativa,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Descripción relativa; excluida como predictor del desgranamiento,Binaria 0/1
+m1-corte-2022,percentil_25_departamental,Percentil 25 departamental,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,ipm_h_percent,IPM H (%),01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Porcentaje
+m1-corte-2022,pobreza,Pobreza,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Proporción
+m1-corte-2022,inasistencia,Inasistencia,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Proporción
+m1-corte-2022,sobreedad,Sobreedad,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Proporción
+m1-corte-2022,logro_minimo,Logro mínimo,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Proporción
+m1-corte-2022,trabajo_infantil,Trabajo infantil,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,Contexto departamental; repetido entre distritos,Proporción
+m1-corte-2022,ipm_disponible,IPM disponible,01-Bases-educativas-Paraguay.xlsx,10 M1 corte 2022,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,fila_origen,Fila origen,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,clave_distrito,Clave distrito,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,ano,Año,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,codigo_departamento,Código departamento,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,departamento,Departamento,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,codigo_distrito,Código distrito,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,distrito,Distrito,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,matricula_primer_grado,Matrícula primer grado,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,matricula_noveno_grado,Matrícula noveno grado,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,matricula_total,Matrícula total,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,numero_de_instituciones,Número de instituciones,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,proporcion_urbana,Proporción urbana,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,proporcion_oficial,Proporción oficial,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,retencion_g9_g1,Retención G9/G1,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,desgranamiento,Desgranamiento,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,privacion_educativa_relativa,Privación educativa relativa,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,Descripción relativa; excluida como predictor del desgranamiento,Binaria 0/1
+m2-panel,percentil_25_departamental,Percentil 25 departamental,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,numero_de_olas_observadas,Número de olas observadas,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m2-panel,panel_completo_cinco_olas,Panel completo cinco olas,01-Bases-educativas-Paraguay.xlsx,20 M2 panel,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,fila_origen,Fila origen,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,ciclo,Ciclo,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,departamento,Departamento,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,distrito,Distrito,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,zona,Zona,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,sector,Sector,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,sexo,Sexo,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,periodo,Periodo,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,abandono,Abandono,01-Bases-educativas-Paraguay.xlsx,30 M3 abandono,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,fila_origen,Fila origen,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,indicador,Indicador,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,departamento,Departamento,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,zona,Zona,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,sexo,Sexo,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,ano,Año,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,valor_de_retencion,Valor de retención,01-Bases-educativas-Paraguay.xlsx,31 M3 retención,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-educacion-inicial,fila_origen,Fila origen,01-Bases-educativas-Paraguay.xlsx,32 M3 educación inicial,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-educacion-inicial,departamento,Departamento,01-Bases-educativas-Paraguay.xlsx,32 M3 educación inicial,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-educacion-inicial,ano,Año,01-Bases-educativas-Paraguay.xlsx,32 M3 educación inicial,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-educacion-inicial,deficit_de_educacion_inicial,Déficit de educación inicial,01-Bases-educativas-Paraguay.xlsx,32 M3 educación inicial,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,departamento_original,Departamento original,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,distrito_original,Distrito original,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,departamento_canonico,Departamento canónico,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,distrito_canonico,Distrito canónico,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,codigo_departamento,Código departamento,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,codigo_distrito,Código distrito,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,metodo_de_enlace,Método de enlace,01-Bases-educativas-Paraguay.xlsx,04 Cruce de distritos,Valor original; nombre normalizado,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,pobreza_monetaria_ine_2022,pobreza_monetaria_ine_2022,INE 2022 / cruce adjunto,,"Proporción distrital. Censo 2022 y EPHC 2023, según nota de la fuente.",Medida distrital INE,Proporción
+m1-corte-2022,pobreza_monetaria_limite_inferior,pobreza_monetaria_limite_inferior,INE 2022 / cruce adjunto,,"Límite inferior publicado, proporción; no se supone nivel de confianza.",Medida distrital INE,Proporción
+m1-corte-2022,pobreza_monetaria_limite_superior,pobreza_monetaria_limite_superior,INE 2022 / cruce adjunto,,"Límite superior publicado, proporción; no se supone nivel de confianza.",Medida distrital INE,Proporción
+m1-corte-2022,pobreza_monetaria_rango,pobreza_monetaria_rango,INE 2022 / cruce adjunto,,Categoría publicada en porcentaje.,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,hogares_ine_2022,hogares_ine_2022,INE 2022 / cruce adjunto,,Número de hogares censales.,"Identificación, trazabilidad o variable original",Hogares
+m1-corte-2022,nbi_al_menos_una_2022,nbi_al_menos_una_2022,INE 2022 / cruce adjunto,,Proporción de hogares; porcentaje publicado dividido por 100.,Medida distrital INE,Proporción
+m1-corte-2022,nbi_vivienda_2022,nbi_vivienda_2022,INE 2022 / cruce adjunto,,Proporción de hogares; porcentaje publicado dividido por 100.,Medida distrital INE,Proporción
+m1-corte-2022,nbi_sanitaria_2022,nbi_sanitaria_2022,INE 2022 / cruce adjunto,,Proporción de hogares; porcentaje publicado dividido por 100.,Medida distrital INE,Proporción
+m1-corte-2022,nbi_educacion_2022,nbi_educacion_2022,INE 2022 / cruce adjunto,,Proporción de hogares; porcentaje publicado dividido por 100.,Medida distrital INE,Proporción
+m1-corte-2022,nbi_subsistencia_2022,nbi_subsistencia_2022,INE 2022 / cruce adjunto,,Proporción de hogares; porcentaje publicado dividido por 100.,Medida distrital INE,Proporción
+m1-corte-2022,fila_fuente_pobreza_ine,fila_fuente_pobreza_ine,INE 2022 / cruce adjunto,,Fila Excel de Distrital en fuente monetaria.,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,fila_fuente_nbi_ine,fila_fuente_nbi_ine,INE 2022 / cruce adjunto,,Fila Excel de NBI en fuente censal.,"Identificación, trazabilidad o variable original",Según etiqueta original
+m1-corte-2022,pobreza_estimacion_sintetica,pobreza_estimacion_sintetica,INE 2022 / cruce adjunto,,Sí para Boquerón y Alto Paraguay según nota del INE.,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-abandono,clave_distrito,clave_distrito,INE 2022 / cruce adjunto,,Código departamento-código distrito; enlace exacto con el cruce suministrado.,"Identificación, trazabilidad o variable original",Según etiqueta original
+m3-retencion,mayor_que_1,mayor_que_1,INE 2022 / cruce adjunto,,Sí si valor_de_retencion > 1; valor original conservado.,"Identificación, trazabilidad o variable original",Según etiqueta original
+cruce-distritos,clave_distrito,clave_distrito,INE 2022 / cruce adjunto,,Código departamento-código distrito; enlace exacto con el cruce suministrado.,"Identificación, trazabilidad o variable original",Según etiqueta original

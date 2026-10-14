@@ -1,0 +1,264 @@
+clave_distrito,departamento,distrito,departamento_pobreza,distrito_pobreza,fila_pobreza,departamento_nbi,distrito_nbi,fila_nbi
+0-0,Capital,Asunción,Asunción,Asunción,7,Asunción,Asunción,11
+1-1,Concepción,Concepción,Concepción,Concepción,9,Concepción,Concepción,14
+1-2,Concepción,Belén,Concepción,Belén,10,Concepción,Belén,15
+1-3,Concepción,Horqueta,Concepción,Horqueta,11,Concepción,Horqueta,16
+1-4,Concepción,Loreto,Concepción,Loreto,12,Concepción,Loreto,17
+1-5,Concepción,San Carlos del Apa,Concepción,San Carlos del Apa,13,Concepción,San Carlos del Apa,18
+1-6,Concepción,San Lázaro,Concepción,San Lázaro,14,Concepción,San Lázaro,19
+1-7,Concepción,Yby Yaú,Concepción,Yby Yaú,15,Concepción,Yby Yaú,20
+1-8,Concepción,Azotey,Concepción,Azote'y,16,Concepción,Azote'y,21
+1-9,Concepción,Sargento José Félix López,Concepción,Sargento José Félix López,17,Concepción,Sargento José Félix López,22
+1-10,Concepción,San Alfredo,Concepción,San Alfredo,18,Concepción,San Alfredo,23
+1-11,Concepción,Paso Barreto,Concepción,Paso Barreto,19,Concepción,Paso Barreto,24
+1-12,Concepción,Arroyito,Concepción,Arroyito,20,Concepción,Arroyito,25
+1-13,Concepción,Paso Horqueta,Concepción,Paso Horqueta,21,Concepción,Paso Horqueta,26
+1-14,Concepción,Itacuá,Concepción,Itacuá,22,Concepción,Itacuá,27
+2-1,San Pedro,San Pedro del Ycuamandyjú,San Pedro,San Pedro del Ycuamandyyú,24,San Pedro,San Pedro del Ycuamandyyú,29
+2-2,San Pedro,Antequera,San Pedro,Antequera,25,San Pedro,Antequera,30
+2-3,San Pedro,Choré,San Pedro,Choré,26,San Pedro,Choré,31
+2-4,San Pedro,General Elizardo Aquino,San Pedro,General Elizardo Aquino,27,San Pedro,General Elizardo Aquino,32
+2-5,San Pedro,Itacurubí del Rosario,San Pedro,Itacurubí del Rosario,28,San Pedro,Itacurubí del Rosario,33
+2-6,San Pedro,Lima,San Pedro,Lima,29,San Pedro,Lima,34
+2-7,San Pedro,Nueva Germania,San Pedro,Nueva Germania,30,San Pedro,Nueva Germania,35
+2-8,San Pedro,San Estanislao,San Pedro,San Estanislao,31,San Pedro,San Estanislao,36
+2-9,San Pedro,San Pablo,San Pedro,San Pablo,32,San Pedro,San Pablo,37
+2-10,San Pedro,Tacuati,San Pedro,Tacuatí,33,San Pedro,Tacuatí,38
+2-11,San Pedro,Unión,San Pedro,Unión,34,San Pedro,Unión,39
+2-12,San Pedro,25 de Diciembre,San Pedro,25 De Diciembre,35,San Pedro,25 de Diciembre,40
+2-13,San Pedro,Villa del Rosario,San Pedro,Villa del Rosario,36,San Pedro,Villa del Rosario,41
+2-14,San Pedro,General Isidoro Resquín,San Pedro,General Francisco Isidoro Resquín,37,San Pedro,General Francisco Isidoro Resquín,42
+2-15,San Pedro,Yataity del Norte,San Pedro,Yataity del Norte,38,San Pedro,Yataity del Norte,43
+2-16,San Pedro,Guayaibi,San Pedro,Guajayvi,39,San Pedro,Guajayvi,44
+2-17,San Pedro,Capiibary,San Pedro,Capiibary,40,San Pedro,Capiibary,45
+2-18,San Pedro,Santa Rosa del Aguaray,San Pedro,Santa Rosa del Aguaray,41,San Pedro,Santa Rosa del Aguaray,46
+2-19,San Pedro,Yrybucuá,San Pedro,Yrybucua,42,San Pedro,Yrybucua,47
+2-20,San Pedro,Liberación,San Pedro,Liberación,43,San Pedro,Liberación,48
+2-21,San Pedro,San Vicente Pancholo,San Pedro,San Vicente Pancholo,44,San Pedro,San Vicente Pancholo,49
+2-22,San Pedro,San José del Rosario,San Pedro,San José del Rosario,45,San Pedro,San José del Rosario,50
+3-1,Cordillera,Caacupé,Cordillera,Caacupé,47,Cordillera,Caacupé,52
+3-2,Cordillera,Altos,Cordillera,Altos,48,Cordillera,Altos,53
+3-3,Cordillera,Arroyos y Esteros,Cordillera,Arroyos y Esteros,49,Cordillera,Arroyos y Esteros,54
+3-4,Cordillera,Atyrá,Cordillera,Atyrá,50,Cordillera,Atyrá,55
+3-5,Cordillera,Caraguatay,Cordillera,Caraguatay,51,Cordillera,Caraguatay,56
+3-6,Cordillera,Emboscada,Cordillera,Emboscada,52,Cordillera,Emboscada,57
+3-7,Cordillera,Eusebio Ayala,Cordillera,Eusebio Ayala,53,Cordillera,Eusebio Ayala,58
+3-8,Cordillera,Isla Pucú,Cordillera,Isla Pucú,54,Cordillera,Isla Pucú,59
+3-9,Cordillera,Itacurubí de la Cordillera,Cordillera,Itacurubí de La Cordillera,55,Cordillera,Itacurubí de la Cordillera,60
+3-10,Cordillera,Juan de Mena,Cordillera,Juan de Mena,56,Cordillera,Juan de Mena,61
+3-11,Cordillera,Loma Grande,Cordillera,Loma Grande,57,Cordillera,Loma Grande,62
+3-12,Cordillera,Mbocayaty del Yhaguy,Cordillera,Mbocayaty del Yhaguy,58,Cordillera,Mbocayaty del Yhaguy,63
+3-13,Cordillera,Nueva Colombia,Cordillera,Nueva Colombia,59,Cordillera,Nueva Colombia,64
+3-14,Cordillera,Piribebuy,Cordillera,Piribebuy,60,Cordillera,Piribebuy,65
+3-15,Cordillera,1º de Marzo,Cordillera,Primero de Marzo,61,Cordillera,Primero de Marzo,66
+3-16,Cordillera,San Bernardino,Cordillera,San Bernardino,62,Cordillera,San Bernardino,67
+3-17,Cordillera,Santa Elena,Cordillera,Santa Elena,63,Cordillera,Santa Elena,68
+3-18,Cordillera,Tobatí,Cordillera,Tobatí,64,Cordillera,Tobatí,69
+3-19,Cordillera,Valenzuela,Cordillera,Valenzuela,65,Cordillera,Valenzuela,70
+3-20,Cordillera,San José Obrero,Cordillera,San José Obrero,66,Cordillera,San José Obrero,71
+4-1,Guairá,Villarrica,Guairá,Villarrica,68,Guairá,Villarrica,73
+4-2,Guairá,Borja,Guairá,Borja,69,Guairá,Borja,74
+4-3,Guairá,Mauricio José Troche,Guairá,Capitán Mauricio José Troche,70,Guairá,Capitán Mauricio José Troche,75
+4-4,Guairá,Coronel Martínez,Guairá,Coronel Martínez,71,Guairá,Coronel Martínez,76
+4-5,Guairá,Félix Pérez Cardozo,Guairá,Félix Pérez Cardozo,72,Guairá,Félix Pérez Cardozo,77
+4-6,Guairá,General Eugenio A. Garay,Guairá,Gral. Eugenio A. Garay,73,Guairá,Gral. Eugenio A. Garay,78
+4-7,Guairá,Independencia,Guairá,Independencia,74,Guairá,Independencia,79
+4-8,Guairá,Itapé,Guairá,Itapé,75,Guairá,Itapé,80
+4-9,Guairá,Iturbe,Guairá,Iturbe,76,Guairá,Iturbe,81
+4-10,Guairá,José Fassardi,Guairá,José Fassardi,77,Guairá,José Fassardi,82
+4-11,Guairá,Mbocayaty,Guairá,Mbocayaty,78,Guairá,Mbocayaty,83
+4-12,Guairá,Natalicio Talavera,Guairá,Natalicio Talavera,79,Guairá,Natalicio Talavera,84
+4-13,Guairá,Ñumí,Guairá,Ñumí,80,Guairá,Ñumí,85
+4-14,Guairá,San Salvador,Guairá,San Salvador,81,Guairá,San Salvador,86
+4-15,Guairá,Yataity,Guairá,Yataity,82,Guairá,Yataity,87
+4-16,Guairá,Dr. Bottrell,Guairá,Doctor Bottrell,83,Guairá,Doctor Bottrell,88
+4-17,Guairá,Paso Yobai,Guairá,Paso Yobai,84,Guairá,Paso Yobai,89
+4-18,Guairá,Tebicuary,Guairá,Tebicuary,85,Guairá,Tebicuary,90
+5-1,Caaguazú,Coronel Oviedo,Caaguazú,Coronel Oviedo,87,Caaguazú,Coronel Oviedo,92
+5-2,Caaguazú,Caaguazú,Caaguazú,Caaguazú,88,Caaguazú,Caaguazú,93
+5-3,Caaguazú,Carayaó,Caaguazú,Carayaó,89,Caaguazú,Carayaó,94
+5-4,Caaguazú,Dr. Cecilio Báez,Caaguazú,Dr. Cecilio Báez,90,Caaguazú,Dr. Cecilio Báez,95
+5-5,Caaguazú,Santa Rosa del Mbutuy,Caaguazú,Santa Rosa del Mbutuy,91,Caaguazú,Santa Rosa del Mbutuy,96
+5-6,Caaguazú,Dr. Juan Manuel Frutos,Caaguazú,Dr. Juan Manuel Frutos,92,Caaguazú,Dr. Juan Manuel Frutos,97
+5-7,Caaguazú,Repatriación,Caaguazú,Repatriación,93,Caaguazú,Repatriación,98
+5-8,Caaguazú,Nueva Londres,Caaguazú,Nueva Londres,94,Caaguazú,Nueva Londres,99
+5-9,Caaguazú,San Joaquín,Caaguazú,San Joaquín,95,Caaguazú,San Joaquín,100
+5-10,Caaguazú,San José de los Arroyos,Caaguazú,San José de Los Arroyos,96,Caaguazú,San José de los Arroyos,101
+5-11,Caaguazú,Yhú,Caaguazú,Yhú,97,Caaguazú,Yhú,102
+5-12,Caaguazú,Dr. Juan Eulogio Estigarribia,Caaguazú,Dr. J. Eulogio Estigarribia,98,Caaguazú,Dr. J. Eulogio Estigarribia,103
+5-13,Caaguazú,R.I. 3 Corrales,Caaguazú,R.I. 3 Corrales,99,Caaguazú,R.I. 3 Corrales,104
+5-14,Caaguazú,Raúl Arsenio Oviedo,Caaguazú,Raúl Arsenio Oviedo,100,Caaguazú,Raúl Arsenio Oviedo,105
+5-15,Caaguazú,José Domingo Ocampos,Caaguazú,José Domingo Ocampos,101,Caaguazú,José Domingo Ocampos,106
+5-16,Caaguazú,Mariscal Francisco Solano López,Caaguazú,Mariscal Francisco Solano López,102,Caaguazú,Mariscal Francisco Solano López,107
+5-17,Caaguazú,La Pastora,Caaguazú,La Pastora,103,Caaguazú,La Pastora,108
+5-18,Caaguazú,3 de Febrero,Caaguazú,3 De Febrero,104,Caaguazú,3 de Febrero,109
+5-19,Caaguazú,Simón Bolívar,Caaguazú,Simón Bolivar,105,Caaguazú,Simón Bolivar,110
+5-20,Caaguazú,Vaquería,Caaguazú,Vaquería,106,Caaguazú,Vaquería,111
+5-21,Caaguazú,Tembiaporá,Caaguazú,Tembiaporá,107,Caaguazú,Tembiaporá,112
+5-22,Caaguazú,Nueva Toledo,Caaguazú,Nueva Toledo,108,Caaguazú,Nueva Toledo,113
+6-1,Caazapá,Caazapá,Caazapá,Caazapá,110,Caazapá,Caazapá,115
+6-2,Caazapá,Abaí,Caazapá,Abaí,111,Caazapá,Abaí,116
+6-3,Caazapá,Buena Vista,Caazapá,Buena Vista,112,Caazapá,Buena Vista,117
+6-4,Caazapá,Dr. Moisés S. Bertoni,Caazapá,Dr. Moisés S. Bertoni,113,Caazapá,Dr. Moisés S. Bertoni,118
+6-5,Caazapá,General Higinio Morínigo,Caazapá,Gral. Higinio Morinigo,114,Caazapá,Gral. Higinio Morínigo,119
+6-6,Caazapá,Maciel,Caazapá,Maciel,115,Caazapá,Maciel,120
+6-7,Caazapá,San Juan Nepomuceno,Caazapá,San Juan Nepomuceno,116,Caazapá,San Juan Nepomuceno,121
+6-8,Caazapá,Tavaí,Caazapá,Tavaí,117,Caazapá,Tavaí,122
+6-9,Caazapá,Fulgencio Yegros,Caazapá,Yegros,118,Caazapá,Yegros,123
+6-10,Caazapá,Yuty,Caazapá,Yuty,119,Caazapá,Yuty,124
+6-11,Caazapá,3 de Mayo,Caazapá,3 De Mayo,120,Caazapá,3 de Mayo,125
+7-1,Itapúa,Encarnación,Itapúa,Encarnación,122,Itapuá,Encarnación,127
+7-2,Itapúa,Bella Vista,Itapúa,Bella Vista,123,Itapuá,Bella Vista,128
+7-3,Itapúa,Cambyretá,Itapúa,Cambyretá,124,Itapuá,Cambyretá,129
+7-4,Itapúa,Capitán Meza,Itapúa,Capitán Meza,125,Itapuá,Capitán Meza,130
+7-5,Itapúa,Capitán Miranda,Itapúa,Capitán Miranda,126,Itapuá,Capitán Miranda,131
+7-6,Itapúa,Nueva Alborada,Itapúa,Nueva Alborada,127,Itapuá,Nueva Alborada,132
+7-7,Itapúa,Carmen del Paraná,Itapúa,Carmen del Paraná,128,Itapuá,Carmen del Paraná,133
+7-8,Itapúa,Coronel Bogado,Itapúa,Coronel Bogado,129,Itapuá,Coronel Bogado,134
+7-9,Itapúa,Carlos Antonio López,Itapúa,Carlos Antonio López,130,Itapuá,Carlos Antonio López,135
+7-10,Itapúa,Natalio,Itapúa,Natalio,131,Itapuá,Natalio,136
+7-11,Itapúa,Fram,Itapúa,Fram,132,Itapuá,Fram,137
+7-12,Itapúa,General Artigas,Itapúa,General Artigas,133,Itapuá,General Artigas,138
+7-13,Itapúa,General Delgado,Itapúa,General Delgado,134,Itapuá,General Delgado,139
+7-14,Itapúa,Hohenau,Itapúa,Hohenau,135,Itapuá,Hohenau,140
+7-15,Itapúa,Jesús,Itapúa,Jesús,136,Itapuá,Jesús,141
+7-16,Itapúa,José Leandro Oviedo,Itapúa,José Leandro Oviedo,137,Itapuá,José Leandro Oviedo,142
+7-17,Itapúa,Obligado,Itapúa,Obligado,138,Itapuá,Obligado,143
+7-18,Itapúa,Mayor Julio Dionisio Otaño,Itapúa,Mayor Julio Dionisio Otaño,139,Itapuá,Mayor Julio Dionisio Otaño,144
+7-19,Itapúa,San Cosme y Damián,Itapúa,San Cosme y Damián,140,Itapuá,San Cosme y Damián,145
+7-20,Itapúa,San Pedro del Paraná,Itapúa,San Pedro del Paraná,141,Itapuá,San Pedro del Paraná,146
+7-21,Itapúa,San Rafael del Paraná,Itapúa,San Rafael del Paraná,142,Itapuá,San Rafael del Paraná,147
+7-22,Itapúa,Trinidad,Itapúa,Trinidad,143,Itapuá,Trinidad,148
+7-23,Itapúa,Edelira,Itapúa,Edelira,144,Itapuá,Edelira,149
+7-24,Itapúa,Tomás Romero Pereira,Itapúa,Tomás Romero Pereira,145,Itapuá,Tomás Romero Pereira,150
+7-25,Itapúa,Alto Verá,Itapúa,Alto Verá,146,Itapuá,Alto Verá,151
+7-26,Itapúa,La Paz,Itapúa,La Paz,147,Itapuá,La Paz,152
+7-27,Itapúa,Yatytay,Itapúa,Yatytay,148,Itapuá,Yatytay,153
+7-28,Itapúa,San Juan del  Paraná,Itapúa,San Juan Del Paraná,149,Itapuá,San Juan del Paraná,154
+7-29,Itapúa,Pirapó,Itapúa,Pirapó,150,Itapuá,Pirapó,155
+7-30,Itapúa,Itapúa Poty,Itapúa,Itapúa Poty,151,Itapuá,Itapúa Poty,156
+8-1,Misiones,San Juan Bautista,Misiones,San Juan Bautista de Las Misiones,153,Misiones,San Juan Bautista de las Misiones,158
+8-2,Misiones,Ayolas,Misiones,Ayolas,154,Misiones,Ayolas,159
+8-3,Misiones,San Ignacio,Misiones,San Ignacio,155,Misiones,San Ignacio,160
+8-4,Misiones,San Miguel,Misiones,San Miguel,156,Misiones,San Miguel,161
+8-5,Misiones,San Patricio,Misiones,San Patricio,157,Misiones,San Patricio,162
+8-6,Misiones,Santa María,Misiones,Santa María,158,Misiones,Santa María,163
+8-7,Misiones,Santa Rosa,Misiones,Santa Rosa,159,Misiones,Santa Rosa,164
+8-8,Misiones,Santiago,Misiones,Santiago,160,Misiones,Santiago,165
+8-9,Misiones,Villa Florida,Misiones,Villa Florida,161,Misiones,Villa Florida,166
+8-10,Misiones,Yabebyry,Misiones,Yabebyry,162,Misiones,Yabebyry,167
+9-1,Paraguarí,Paraguarí,Paraguarí,Paraguarí,164,Paraguarí,Paraguarí,169
+9-2,Paraguarí,Acahay,Paraguarí,Acahay,165,Paraguarí,Acahay,170
+9-3,Paraguarí,Caapucú,Paraguarí,Caapucú,166,Paraguarí,Caapucú,171
+9-4,Paraguarí,General Bernardino Caballero,Paraguarí,Caballero,167,Paraguarí,Caballero,172
+9-5,Paraguarí,Carapeguá,Paraguarí,Carapeguá,168,Paraguarí,Carapeguá,173
+9-6,Paraguarí,Escobar,Paraguarí,Escobar,169,Paraguarí,Escobar,174
+9-7,Paraguarí,La Colmena,Paraguarí,La Colmena,170,Paraguarí,La Colmena,175
+9-8,Paraguarí,Mbuyapey,Paraguarí,Mbuyapey,171,Paraguarí,Mbuyapey,176
+9-9,Paraguarí,Pirayú,Paraguarí,Pirayú,172,Paraguarí,Pirayú,177
+9-10,Paraguarí,Quiindy,Paraguarí,Quiindy,173,Paraguarí,Quiindy,178
+9-11,Paraguarí,Quyquyhó,Paraguarí,Quyquyhó,174,Paraguarí,Quyquyhó,179
+9-12,Paraguarí,San Roque González de Santacruz,Paraguarí,Roque Gonzalez de Santa Cruz,175,Paraguarí,Roque González de Santa Cruz,180
+9-13,Paraguarí,Sapucai,Paraguarí,Sapucái,176,Paraguarí,Sapucái,181
+9-14,Paraguarí,Tebicuary-mí,Paraguarí,Tebicuary-Mí,177,Paraguarí,Tebicuary-mí,182
+9-15,Paraguarí,Yaguarón,Paraguarí,Yaguarón,178,Paraguarí,Yaguarón,183
+9-16,Paraguarí,Ybycuí,Paraguarí,Ybycuí,179,Paraguarí,Ybycuí,184
+9-17,Paraguarí,Ybytymí,Paraguarí,Ybytymí,180,Paraguarí,Ybytymí,185
+9-18,Paraguarí,Maria Antonia,Paraguarí,María Antonia,181,Paraguarí,María Antonia,186
+10-1,Alto Paraná,Ciudad del Este,Alto Paraná,Ciudad del Este,183,Alto Paraná,Ciudad del Este,188
+10-2,Alto Paraná,Presidente Franco,Alto Paraná,Presidente Franco,184,Alto Paraná,Presidente Franco,189
+10-3,Alto Paraná,Domingo Martínez de Irala,Alto Paraná,Domingo Martínez de Irala,185,Alto Paraná,Domingo Martínez de Irala,190
+10-4,Alto Paraná,Dr. Juan León Mallorquín,Alto Paraná,Dr. Juan León Mallorquín,186,Alto Paraná,Dr. Juan León Mallorquín,191
+10-5,Alto Paraná,Hernandarias,Alto Paraná,Hernandarias,187,Alto Paraná,Hernandarias,192
+10-6,Alto Paraná,Itakyry,Alto Paraná,Itakyry,188,Alto Paraná,Itakyry,193
+10-7,Alto Paraná,Juan E. O'Leary,Alto Paraná,Juan E. O'leary,189,Alto Paraná,Juan E. O'Leary,194
+10-8,Alto Paraná,Ñacunday,Alto Paraná,Ñacunday,190,Alto Paraná,Ñacunday,195
+10-9,Alto Paraná,Yguazú,Alto Paraná,Yguazú,191,Alto Paraná,Yguazú,196
+10-10,Alto Paraná,Los Cedrales,Alto Paraná,Los Cedrales,192,Alto Paraná,Los Cedrales,197
+10-11,Alto Paraná,Minga Guazú,Alto Paraná,Minga Guazú,193,Alto Paraná,Minga Guazú,198
+10-12,Alto Paraná,San Cristóbal,Alto Paraná,San Cristóbal,194,Alto Paraná,San Cristóbal,199
+10-13,Alto Paraná,Santa Rita,Alto Paraná,Santa Rita,195,Alto Paraná,Santa Rita,200
+10-14,Alto Paraná,Naranjal,Alto Paraná,Naranjal,196,Alto Paraná,Naranjal,201
+10-15,Alto Paraná,Santa Rosa del Monday,Alto Paraná,Santa Rosa del Monday,197,Alto Paraná,Santa Rosa del Monday,202
+10-16,Alto Paraná,Minga Porá,Alto Paraná,Minga Porá,198,Alto Paraná,Minga Porá,203
+10-17,Alto Paraná,Mbaracayú,Alto Paraná,Mbaracayú,199,Alto Paraná,Mbaracayú,204
+10-18,Alto Paraná,San Alberto,Alto Paraná,San Alberto,200,Alto Paraná,San Alberto,205
+10-19,Alto Paraná,Iruña,Alto Paraná,Iruña,201,Alto Paraná,Iruña,206
+10-20,Alto Paraná,Santa Fe del Paraná,Alto Paraná,Santa Fe del Paraná,202,Alto Paraná,Santa Fe del Paraná,207
+10-21,Alto Paraná,Tavapy,Alto Paraná,Tavapy,203,Alto Paraná,Tavapy,208
+10-22,Alto Paraná,Dr. Raúl Peña,Alto Paraná,Dr. Raúl Peña,204,Alto Paraná,Dr. Raúl Peña,209
+11-1,Central,Areguá,Central,Areguá,206,Central,Areguá,211
+11-2,Central,Capiatá,Central,Capiatá,207,Central,Capiatá,212
+11-3,Central,Fernando de la Mora,Central,Fernando de La Mora,208,Central,Fernando de la Mora,213
+11-4,Central,Guarambaré,Central,Guarambaré,209,Central,Guarambaré,214
+11-5,Central,Itá,Central,Itá,210,Central,Itá,215
+11-6,Central,Itauguá,Central,Itauguá,211,Central,Itauguá,216
+11-7,Central,Lambaré,Central,Lambaré,212,Central,Lambaré,217
+11-8,Central,Limpio,Central,Limpio,213,Central,Limpio,218
+11-9,Central,Luque,Central,Luque,214,Central,Luque,219
+11-10,Central,Mariano Roque Alonso,Central,Mariano Roque Alonso,215,Central,Mariano Roque Alonso,220
+11-11,Central,Nueva Italia,Central,Nueva Italia,216,Central,Nueva Italia,221
+11-12,Central,Ñemby,Central,Ñemby,217,Central,Ñemby,222
+11-13,Central,San Antonio,Central,San Antonio,218,Central,San Antonio,223
+11-14,Central,San Lorenzo,Central,San Lorenzo,219,Central,San Lorenzo,224
+11-15,Central,Villa Elisa,Central,Villa Elisa,220,Central,Villa Elisa,225
+11-16,Central,Villeta,Central,Villeta,221,Central,Villeta,226
+11-17,Central,Ypacaraí,Central,Ypacaraí,222,Central,Ypacaraí,227
+11-18,Central,Ypané,Central,Ypané,223,Central,Ypané,228
+11-19,Central,Julián Augusto Saldívar,Central,J. Augusto Saldívar,224,Central,J. Augusto Saldívar,229
+12-1,Ñeembucú,Pilar,Ñeembucú,Pilar,226,Ñeembucú,Pilar,231
+12-2,Ñeembucú,Alberdi,Ñeembucú,Alberdi,227,Ñeembucú,Alberdi,232
+12-3,Ñeembucú,Cerrito,Ñeembucú,Cerrito,228,Ñeembucú,Cerrito,233
+12-4,Ñeembucú,Desmochados,Ñeembucú,Desmochados,229,Ñeembucú,Desmochados,234
+12-5,Ñeembucú,General José Eduvigis Díaz,Ñeembucú,Gral. José Eduvigis Díaz,230,Ñeembucú,Gral. José Eduvigis Díaz,235
+12-6,Ñeembucú,Guazú Cuá,Ñeembucú,Guazú-Cuá,231,Ñeembucú,Guazú-Cuá,236
+12-7,Ñeembucú,Humaitá,Ñeembucú,Humaitá,232,Ñeembucú,Humaitá,237
+12-8,Ñeembucú,Isla Umbú,Ñeembucú,Isla Umbú,233,Ñeembucú,Isla Umbú,238
+12-9,Ñeembucú,Laureles,Ñeembucú,Laureles,234,Ñeembucú,Laureles,239
+12-10,Ñeembucú,Mayor Martínez,Ñeembucú,Mayor José Dejesús Martínez,235,Ñeembucú,Mayor José Dejesús Martínez,240
+12-11,Ñeembucú,Paso de Patria,Ñeembucú,Paso de Patria,236,Ñeembucú,Paso de Patria,241
+12-12,Ñeembucú,San Juan Bautista,Ñeembucú,San Juan Bautista de Ñeembucú,237,Ñeembucú,San Juan Bautista de Ñeembucú,242
+12-13,Ñeembucú,Tacuaras,Ñeembucú,Tacuaras,238,Ñeembucú,Tacuaras,243
+12-14,Ñeembucú,Villa Franca,Ñeembucú,Villa Franca,239,Ñeembucú,Villa Franca,244
+12-15,Ñeembucú,Villa Oliva,Ñeembucú,Villa Oliva,240,Ñeembucú,Villa Oliva,245
+12-16,Ñeembucú,Villalbín,Ñeembucú,Villalbín,241,Ñeembucú,Villalbín,246
+13-1,Amambay,Pedro Juan Caballero,Amambay,Pedro Juan Caballero,243,Amambay,Pedro Juan Caballero,248
+13-2,Amambay,Bella Vista,Amambay,Bella Vista,244,Amambay,Bella Vista,249
+13-3,Amambay,Capitán Bado,Amambay,Capitán Bado,245,Amambay,Capitán Bado,250
+13-4,Amambay,Zanja Pyta,Amambay,Zanja Pytá,246,Amambay,Zanja Pytá,251
+13-5,Amambay,Karapai,Amambay,Karapaí,247,Amambay,Karapaí,252
+13-6,Amambay,Cerro Corá,Amambay,Cerro Cora,248,Amambay,Cerro Corá,253
+14-1,Canindeyú,Salto del Guairá,Canindeyú,Salto del Guairá,250,Canindeyú,Salto del Guairá,255
+14-2,Canindeyú,Corpus Christi,Canindeyú,Corpus Christi,251,Canindeyú,Corpus Christi,256
+14-3,Canindeyú,Curuguaty,Canindeyú,Villa Curuguaty,252,Canindeyú,Villa Curuguaty,257
+14-4,Canindeyú,Villa Ygatimí,Canindeyú,Villa Ygatimí,253,Canindeyú,Villa Ygatimí,258
+14-5,Canindeyú,Itanará,Canindeyú,Itanará,254,Canindeyú,Itanará,259
+14-6,Canindeyú,Ypehú,Canindeyú,Ypejhú,255,Canindeyú,Ypejhú,260
+14-7,Canindeyú,Francisco Caballero Alvarez,Canindeyú,Francisco Caballero Alvarez,256,Canindeyú,Francisco Caballero Álvarez,261
+14-8,Canindeyú,Katueté,Canindeyú,Katueté,257,Canindeyú,Katuete,262
+14-9,Canindeyú,La Paloma del Espíritu Santo,Canindeyú,La Paloma del Espíritu Santo,258,Canindeyú,La Paloma del Espíritu Santo,263
+14-10,Canindeyú,Nueva Esperanza,Canindeyú,Nueva Esperanza,259,Canindeyú,Nueva Esperanza,264
+14-11,Canindeyú,Yasy Cañy,Canindeyú,Yasy Cañy,260,Canindeyú,Yasy Cañy,265
+14-12,Canindeyú,Ybyrarovaná,Canindeyú,Ybyrarobaná,261,Canindeyú,Ybyrarobaná,266
+14-13,Canindeyú,Yby Pyta,Canindeyú,Yby Pytá,262,Canindeyú,Yby Pytá,267
+14-14,Canindeyú,Maracana,Canindeyú,Maracaná,263,Canindeyú,Maracaná,268
+14-15,Canindeyú,Puerto Adela,Canindeyú,Puerto Adela,264,Canindeyú,Puerto Adela,269
+14-16,Canindeyú,Laurel,Canindeyú,Laurel,265,Canindeyú,Laurel,270
+15-2,Presidente Hayes,Benjamín Aceval,Presidente Hayes,Benjamín Aceval,267,Presidente Hayes,Benjamín Aceval,272
+15-3,Presidente Hayes,Puerto Pinasco,Presidente Hayes,Puerto Pinasco,268,Presidente Hayes,Puerto Pinasco,273
+15-4,Presidente Hayes,Villa Hayes,Presidente Hayes,Villa Hayes,269,Presidente Hayes,Villa Hayes,274
+15-5,Presidente Hayes,Nanawa,Presidente Hayes,Nanawa,270,Presidente Hayes,Nanawa,275
+15-6,Presidente Hayes,José Falcón,Presidente Hayes,José Falcón,271,Presidente Hayes,José Falcón,276
+15-7,Presidente Hayes,Teniente Irala Fernández,Presidente Hayes,Tte. 1° Manuel Irala Fernández,272,Presidente Hayes,Tte. 1ro Manuel Irala Fernández,277
+15-8,Presidente Hayes,Tte. Esteban Martínez,Presidente Hayes,Teniente Esteban Martínez,273,Presidente Hayes,Teniente Esteban Martínez,278
+15-9,Presidente Hayes,General Bruguez,Presidente Hayes,General José María Bruguez,274,Presidente Hayes,General José María Bruguez,279
+15-10,Presidente Hayes,Campo Aceval,Presidente Hayes,Campo Aceval,275,Presidente Hayes,Campo Aceval,280
+15-11,Presidente Hayes,Nueva Asunción,Presidente Hayes,Nueva Asunción,276,Presidente Hayes,Nueva Asunción,281
+16-2,Boquerón,Mariscal Estigarribia,Boquerón,Mariscal José Félix Estigarribia,278,Boquerón,Mariscal José Félix Estigarribia,283
+16-4,Boquerón,Filadelfia,Boquerón,Filadelfia,279,Boquerón,Filadelfia,284
+16-5,Boquerón,Loma Plata,Boquerón,Loma Plata,280,Boquerón,Loma Plata,285
+16-6,Boquerón,Boquerón,Boquerón,Boquerón,281,Boquerón,Boquerón,286
+17-1,Alto Paraguay,Fuerte Olimpo,Alto Paraguay,Fuerte Olimpo,283,Alto Paraguay,Fuerte Olimpo,288
+17-2,Alto Paraguay,Puerto Casado,Alto Paraguay,Puerto Casado,284,Alto Paraguay,Puerto Casado,289
+17-4,Alto Paraguay,Bahía Negra,Alto Paraguay,Bahía Negra,285,Alto Paraguay,Bahía Negra,290
+17-5,Alto Paraguay,Carmelo Peralta,Alto Paraguay,Carmelo Peralta,286,Alto Paraguay,Carmelo Peralta,291

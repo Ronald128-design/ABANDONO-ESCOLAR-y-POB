@@ -1,0 +1,701 @@
+fila_origen,indicador,departamento,zona,sexo,ano,valor_de_retencion,mayor_que_1
+4.0,Retencion 9EEB,Asunción,Urbana,Mujer,2020.0,0.8633093525179856,No
+5.0,Retencion 9EEB,Asunción,Urbana,Mujer,2021.0,0.9011943539630836,No
+6.0,Retencion 9EEB,Asunción,Urbana,Mujer,2022.0,0.8770147935526607,No
+7.0,Retencion 9EEB,Asunción,Urbana,Mujer,2023.0,0.8955796120884078,No
+8.0,Retencion 9EEB,Asunción,Urbana,Mujer,2024.0,0.910104688211197,No
+9.0,Retencion 9EEB,Asunción,Urbana,Varón,2020.0,0.7900874635568513,No
+10.0,Retencion 9EEB,Asunción,Urbana,Varón,2021.0,0.8035500598324691,No
+11.0,Retencion 9EEB,Asunción,Urbana,Varón,2022.0,0.8244077244674497,No
+12.0,Retencion 9EEB,Asunción,Urbana,Varón,2023.0,0.8260248827248623,No
+13.0,Retencion 9EEB,Asunción,Urbana,Varón,2024.0,0.8765112262521589,No
+14.0,Retencion 9EEB,Concepción,Urbana,Mujer,2020.0,0.943934760448522,No
+15.0,Retencion 9EEB,Concepción,Urbana,Mujer,2021.0,0.8633484162895928,No
+16.0,Retencion 9EEB,Concepción,Urbana,Mujer,2022.0,0.8651471984805318,No
+17.0,Retencion 9EEB,Concepción,Urbana,Mujer,2023.0,0.925,No
+18.0,Retencion 9EEB,Concepción,Urbana,Mujer,2024.0,0.9168316831683168,No
+19.0,Retencion 9EEB,Concepción,Urbana,Varón,2020.0,0.7493380406001765,No
+20.0,Retencion 9EEB,Concepción,Urbana,Varón,2021.0,0.6636734693877551,No
+21.0,Retencion 9EEB,Concepción,Urbana,Varón,2022.0,0.7174267100977199,No
+22.0,Retencion 9EEB,Concepción,Urbana,Varón,2023.0,0.7563884156729132,No
+23.0,Retencion 9EEB,Concepción,Urbana,Varón,2024.0,0.8467289719626169,No
+24.0,Retencion 9EEB,Concepción,Rural,Mujer,2020.0,0.5297482837528604,No
+25.0,Retencion 9EEB,Concepción,Rural,Mujer,2021.0,0.5562784645413142,No
+26.0,Retencion 9EEB,Concepción,Rural,Mujer,2022.0,0.5836849507735584,No
+27.0,Retencion 9EEB,Concepción,Rural,Mujer,2023.0,0.5870108243130724,No
+28.0,Retencion 9EEB,Concepción,Rural,Mujer,2024.0,0.640926640926641,No
+29.0,Retencion 9EEB,Concepción,Rural,Varón,2020.0,0.4836193447737909,No
+30.0,Retencion 9EEB,Concepción,Rural,Varón,2021.0,0.4676616915422885,No
+31.0,Retencion 9EEB,Concepción,Rural,Varón,2022.0,0.5006150061500615,No
+32.0,Retencion 9EEB,Concepción,Rural,Varón,2023.0,0.5360230547550432,No
+33.0,Retencion 9EEB,Concepción,Rural,Varón,2024.0,0.5934515688949522,No
+34.0,Retencion 9EEB,San Pedro,Urbana,Mujer,2020.0,0.8951342281879194,No
+35.0,Retencion 9EEB,San Pedro,Urbana,Mujer,2021.0,0.8704663212435233,No
+36.0,Retencion 9EEB,San Pedro,Urbana,Mujer,2022.0,0.9110915492957746,No
+37.0,Retencion 9EEB,San Pedro,Urbana,Mujer,2023.0,0.8612933458294283,No
+38.0,Retencion 9EEB,San Pedro,Urbana,Mujer,2024.0,0.996875,No
+39.0,Retencion 9EEB,San Pedro,Urbana,Varón,2020.0,0.7586206896551724,No
+40.0,Retencion 9EEB,San Pedro,Urbana,Varón,2021.0,0.78046875,No
+41.0,Retencion 9EEB,San Pedro,Urbana,Varón,2022.0,0.7585917854149203,No
+42.0,Retencion 9EEB,San Pedro,Urbana,Varón,2023.0,0.7616487455197133,No
+43.0,Retencion 9EEB,San Pedro,Urbana,Varón,2024.0,0.9179869524697112,No
+44.0,Retencion 9EEB,San Pedro,Rural,Mujer,2020.0,0.5590426732896816,No
+45.0,Retencion 9EEB,San Pedro,Rural,Mujer,2021.0,0.6287116564417178,No
+46.0,Retencion 9EEB,San Pedro,Rural,Mujer,2022.0,0.5915226781857451,No
+47.0,Retencion 9EEB,San Pedro,Rural,Mujer,2023.0,0.6543635736460849,No
+48.0,Retencion 9EEB,San Pedro,Rural,Mujer,2024.0,0.6635669212886084,No
+49.0,Retencion 9EEB,San Pedro,Rural,Varón,2020.0,0.5200246457178065,No
+50.0,Retencion 9EEB,San Pedro,Rural,Varón,2021.0,0.5029379760609358,No
+51.0,Retencion 9EEB,San Pedro,Rural,Varón,2022.0,0.5341296928327645,No
+52.0,Retencion 9EEB,San Pedro,Rural,Varón,2023.0,0.5985874043555033,No
+53.0,Retencion 9EEB,San Pedro,Rural,Varón,2024.0,0.6300837320574163,No
+54.0,Retencion 9EEB,Cordillera,Urbana,Mujer,2020.0,1.026382978723404,Sí
+55.0,Retencion 9EEB,Cordillera,Urbana,Mujer,2021.0,1.063436123348018,Sí
+56.0,Retencion 9EEB,Cordillera,Urbana,Mujer,2022.0,1.025519848771266,Sí
+57.0,Retencion 9EEB,Cordillera,Urbana,Mujer,2023.0,1.04043392504931,Sí
+58.0,Retencion 9EEB,Cordillera,Urbana,Mujer,2024.0,1.153605015673981,Sí
+59.0,Retencion 9EEB,Cordillera,Urbana,Varón,2020.0,0.9484126984126984,No
+60.0,Retencion 9EEB,Cordillera,Urbana,Varón,2021.0,0.9113737075332348,No
+61.0,Retencion 9EEB,Cordillera,Urbana,Varón,2022.0,0.976311336717428,No
+62.0,Retencion 9EEB,Cordillera,Urbana,Varón,2023.0,0.9725776965265084,No
+63.0,Retencion 9EEB,Cordillera,Urbana,Varón,2024.0,1.010471204188482,Sí
+64.0,Retencion 9EEB,Cordillera,Rural,Mujer,2020.0,0.6213965406790519,No
+65.0,Retencion 9EEB,Cordillera,Rural,Mujer,2021.0,0.6041388518024032,No
+66.0,Retencion 9EEB,Cordillera,Rural,Mujer,2022.0,0.6664179104477612,No
+67.0,Retencion 9EEB,Cordillera,Rural,Mujer,2023.0,0.6753130590339893,No
+68.0,Retencion 9EEB,Cordillera,Rural,Mujer,2024.0,0.6747648902821317,No
+69.0,Retencion 9EEB,Cordillera,Rural,Varón,2020.0,0.5646651270207852,No
+70.0,Retencion 9EEB,Cordillera,Rural,Varón,2021.0,0.5772889417360285,No
+71.0,Retencion 9EEB,Cordillera,Rural,Varón,2022.0,0.5583941605839416,No
+72.0,Retencion 9EEB,Cordillera,Rural,Varón,2023.0,0.6183087664856478,No
+73.0,Retencion 9EEB,Cordillera,Rural,Varón,2024.0,0.6304347826086957,No
+74.0,Retencion 9EEB,Guairá,Urbana,Mujer,2020.0,0.9681227863046044,No
+75.0,Retencion 9EEB,Guairá,Urbana,Mujer,2021.0,1.0066401062417,Sí
+76.0,Retencion 9EEB,Guairá,Urbana,Mujer,2022.0,0.9934640522875816,No
+77.0,Retencion 9EEB,Guairá,Urbana,Mujer,2023.0,1.057184750733138,Sí
+78.0,Retencion 9EEB,Guairá,Urbana,Mujer,2024.0,1.068249258160237,Sí
+79.0,Retencion 9EEB,Guairá,Urbana,Varón,2020.0,0.8747252747252747,No
+80.0,Retencion 9EEB,Guairá,Urbana,Varón,2021.0,0.8558951965065502,No
+81.0,Retencion 9EEB,Guairá,Urbana,Varón,2022.0,0.8784266984505363,No
+82.0,Retencion 9EEB,Guairá,Urbana,Varón,2023.0,0.9086092715231788,No
+83.0,Retencion 9EEB,Guairá,Urbana,Varón,2024.0,0.9657064471879286,No
+84.0,Retencion 9EEB,Guairá,Rural,Mujer,2020.0,0.4695845697329376,No
+85.0,Retencion 9EEB,Guairá,Rural,Mujer,2021.0,0.4909983633387889,No
+86.0,Retencion 9EEB,Guairá,Rural,Mujer,2022.0,0.5,No
+87.0,Retencion 9EEB,Guairá,Rural,Mujer,2023.0,0.5683530678148547,No
+88.0,Retencion 9EEB,Guairá,Rural,Mujer,2024.0,0.594855305466238,No
+89.0,Retencion 9EEB,Guairá,Rural,Varón,2020.0,0.4319148936170213,No
+90.0,Retencion 9EEB,Guairá,Rural,Varón,2021.0,0.4442028985507246,No
+91.0,Retencion 9EEB,Guairá,Rural,Varón,2022.0,0.5121107266435986,No
+92.0,Retencion 9EEB,Guairá,Rural,Varón,2023.0,0.4851778656126482,No
+93.0,Retencion 9EEB,Guairá,Rural,Varón,2024.0,0.5462264150943397,No
+94.0,Retencion 9EEB,Caaguazú,Urbana,Mujer,2020.0,0.9069028156221616,No
+95.0,Retencion 9EEB,Caaguazú,Urbana,Mujer,2021.0,0.8858212447356106,No
+96.0,Retencion 9EEB,Caaguazú,Urbana,Mujer,2022.0,0.8955445544554456,No
+97.0,Retencion 9EEB,Caaguazú,Urbana,Mujer,2023.0,0.9328042328042327,No
+98.0,Retencion 9EEB,Caaguazú,Urbana,Mujer,2024.0,1.029708520179372,Sí
+99.0,Retencion 9EEB,Caaguazú,Urbana,Varón,2020.0,0.7681564245810056,No
+100.0,Retencion 9EEB,Caaguazú,Urbana,Varón,2021.0,0.7547092547092548,No
+101.0,Retencion 9EEB,Caaguazú,Urbana,Varón,2022.0,0.7964451967837495,No
+102.0,Retencion 9EEB,Caaguazú,Urbana,Varón,2023.0,0.8312439729990356,No
+103.0,Retencion 9EEB,Caaguazú,Urbana,Varón,2024.0,0.8940137389597644,No
+104.0,Retencion 9EEB,Caaguazú,Rural,Mujer,2020.0,0.575091575091575,No
+105.0,Retencion 9EEB,Caaguazú,Rural,Mujer,2021.0,0.5962674961119752,No
+106.0,Retencion 9EEB,Caaguazú,Rural,Mujer,2022.0,0.5883386020372322,No
+107.0,Retencion 9EEB,Caaguazú,Rural,Mujer,2023.0,0.6304436304436305,No
+108.0,Retencion 9EEB,Caaguazú,Rural,Mujer,2024.0,0.6217156105100463,No
+109.0,Retencion 9EEB,Caaguazú,Rural,Varón,2020.0,0.5392311743022643,No
+110.0,Retencion 9EEB,Caaguazú,Rural,Varón,2021.0,0.5154381084840055,No
+111.0,Retencion 9EEB,Caaguazú,Rural,Varón,2022.0,0.5298575325856321,No
+112.0,Retencion 9EEB,Caaguazú,Rural,Varón,2023.0,0.6195324283559578,No
+113.0,Retencion 9EEB,Caaguazú,Rural,Varón,2024.0,0.6235769372016159,No
+114.0,Retencion 9EEB,Caazapá,Urbana,Mujer,2020.0,0.8435897435897436,No
+115.0,Retencion 9EEB,Caazapá,Urbana,Mujer,2021.0,0.8411910669975186,No
+116.0,Retencion 9EEB,Caazapá,Urbana,Mujer,2022.0,0.8309859154929577,No
+117.0,Retencion 9EEB,Caazapá,Urbana,Mujer,2023.0,1.009009009009009,Sí
+118.0,Retencion 9EEB,Caazapá,Urbana,Mujer,2024.0,0.9831649831649832,No
+119.0,Retencion 9EEB,Caazapá,Urbana,Varón,2020.0,0.7894736842105263,No
+120.0,Retencion 9EEB,Caazapá,Urbana,Varón,2021.0,0.7488372093023256,No
+121.0,Retencion 9EEB,Caazapá,Urbana,Varón,2022.0,0.7780487804878049,No
+122.0,Retencion 9EEB,Caazapá,Urbana,Varón,2023.0,0.7754569190600522,No
+123.0,Retencion 9EEB,Caazapá,Urbana,Varón,2024.0,0.9318885448916407,No
+124.0,Retencion 9EEB,Caazapá,Rural,Mujer,2020.0,0.5653912050256996,No
+125.0,Retencion 9EEB,Caazapá,Rural,Mujer,2021.0,0.5770114942528736,No
+126.0,Retencion 9EEB,Caazapá,Rural,Mujer,2022.0,0.5973367152821814,No
+127.0,Retencion 9EEB,Caazapá,Rural,Mujer,2023.0,0.6452328159645233,No
+128.0,Retencion 9EEB,Caazapá,Rural,Mujer,2024.0,0.7070539419087137,No
+129.0,Retencion 9EEB,Caazapá,Rural,Varón,2020.0,0.5585542168674699,No
+130.0,Retencion 9EEB,Caazapá,Rural,Varón,2021.0,0.5289778714436248,No
+131.0,Retencion 9EEB,Caazapá,Rural,Varón,2022.0,0.5470555861309851,No
+132.0,Retencion 9EEB,Caazapá,Rural,Varón,2023.0,0.6153846153846154,No
+133.0,Retencion 9EEB,Caazapá,Rural,Varón,2024.0,0.6725018234865062,No
+134.0,Retencion 9EEB,Itapúa,Urbana,Mujer,2020.0,0.8285043069694596,No
+135.0,Retencion 9EEB,Itapúa,Urbana,Mujer,2021.0,0.8422122814152094,No
+136.0,Retencion 9EEB,Itapúa,Urbana,Mujer,2022.0,0.8411297440423654,No
+137.0,Retencion 9EEB,Itapúa,Urbana,Mujer,2023.0,0.901670644391408,No
+138.0,Retencion 9EEB,Itapúa,Urbana,Mujer,2024.0,0.9209171736078616,No
+139.0,Retencion 9EEB,Itapúa,Urbana,Varón,2020.0,0.7173091458805745,No
+140.0,Retencion 9EEB,Itapúa,Urbana,Varón,2021.0,0.7356194690265486,No
+141.0,Retencion 9EEB,Itapúa,Urbana,Varón,2022.0,0.7343809888846301,No
+142.0,Retencion 9EEB,Itapúa,Urbana,Varón,2023.0,0.7786818551668023,No
+143.0,Retencion 9EEB,Itapúa,Urbana,Varón,2024.0,0.8418241577649959,No
+144.0,Retencion 9EEB,Itapúa,Rural,Mujer,2020.0,0.4862038919546906,No
+145.0,Retencion 9EEB,Itapúa,Rural,Mujer,2021.0,0.4753279200499687,No
+146.0,Retencion 9EEB,Itapúa,Rural,Mujer,2022.0,0.4703665638917437,No
+147.0,Retencion 9EEB,Itapúa,Rural,Mujer,2023.0,0.5153910149750416,No
+148.0,Retencion 9EEB,Itapúa,Rural,Mujer,2024.0,0.5653052972098666,No
+149.0,Retencion 9EEB,Itapúa,Rural,Varón,2020.0,0.413231819375164,No
+150.0,Retencion 9EEB,Itapúa,Rural,Varón,2021.0,0.3934942287513116,No
+151.0,Retencion 9EEB,Itapúa,Rural,Varón,2022.0,0.4394076760350559,No
+152.0,Retencion 9EEB,Itapúa,Rural,Varón,2023.0,0.459651617490224,No
+153.0,Retencion 9EEB,Itapúa,Rural,Varón,2024.0,0.5123277737490936,No
+154.0,Retencion 9EEB,Misiones,Urbana,Mujer,2020.0,0.8923959827833573,No
+155.0,Retencion 9EEB,Misiones,Urbana,Mujer,2021.0,0.8801711840228246,No
+156.0,Retencion 9EEB,Misiones,Urbana,Mujer,2022.0,0.9228295819935692,No
+157.0,Retencion 9EEB,Misiones,Urbana,Mujer,2023.0,0.9860869565217392,No
+158.0,Retencion 9EEB,Misiones,Urbana,Mujer,2024.0,1.115969581749049,Sí
+159.0,Retencion 9EEB,Misiones,Urbana,Varón,2020.0,0.7801608579088471,No
+160.0,Retencion 9EEB,Misiones,Urbana,Varón,2021.0,0.7188295165394402,No
+161.0,Retencion 9EEB,Misiones,Urbana,Varón,2022.0,0.8305084745762712,No
+162.0,Retencion 9EEB,Misiones,Urbana,Varón,2023.0,0.9175412293853074,No
+163.0,Retencion 9EEB,Misiones,Urbana,Varón,2024.0,0.8672699849170438,No
+164.0,Retencion 9EEB,Misiones,Rural,Mujer,2020.0,0.6147368421052631,No
+165.0,Retencion 9EEB,Misiones,Rural,Mujer,2021.0,0.6049107142857143,No
+166.0,Retencion 9EEB,Misiones,Rural,Mujer,2022.0,0.651219512195122,No
+167.0,Retencion 9EEB,Misiones,Rural,Mujer,2023.0,0.7458100558659218,No
+168.0,Retencion 9EEB,Misiones,Rural,Mujer,2024.0,0.6892655367231638,No
+169.0,Retencion 9EEB,Misiones,Rural,Varón,2020.0,0.5763636363636364,No
+170.0,Retencion 9EEB,Misiones,Rural,Varón,2021.0,0.608433734939759,No
+171.0,Retencion 9EEB,Misiones,Rural,Varón,2022.0,0.5496957403651116,No
+172.0,Retencion 9EEB,Misiones,Rural,Varón,2023.0,0.5751789976133651,No
+173.0,Retencion 9EEB,Misiones,Rural,Varón,2024.0,0.7027707808564232,No
+174.0,Retencion 9EEB,Paraguarí,Urbana,Mujer,2020.0,1.059107358262968,Sí
+175.0,Retencion 9EEB,Paraguarí,Urbana,Mujer,2021.0,1.052631578947368,Sí
+176.0,Retencion 9EEB,Paraguarí,Urbana,Mujer,2022.0,1.092307692307692,Sí
+177.0,Retencion 9EEB,Paraguarí,Urbana,Mujer,2023.0,1.146666666666667,Sí
+178.0,Retencion 9EEB,Paraguarí,Urbana,Mujer,2024.0,1.132581100141044,Sí
+179.0,Retencion 9EEB,Paraguarí,Urbana,Varón,2020.0,1.012376237623762,Sí
+180.0,Retencion 9EEB,Paraguarí,Urbana,Varón,2021.0,1.030112923462986,Sí
+181.0,Retencion 9EEB,Paraguarí,Urbana,Varón,2022.0,1.00749063670412,Sí
+182.0,Retencion 9EEB,Paraguarí,Urbana,Varón,2023.0,1.043593130779392,Sí
+183.0,Retencion 9EEB,Paraguarí,Urbana,Varón,2024.0,1.121508379888268,Sí
+184.0,Retencion 9EEB,Paraguarí,Rural,Mujer,2020.0,0.6221009549795361,No
+185.0,Retencion 9EEB,Paraguarí,Rural,Mujer,2021.0,0.6651126651126651,No
+186.0,Retencion 9EEB,Paraguarí,Rural,Mujer,2022.0,0.6672458731537794,No
+187.0,Retencion 9EEB,Paraguarí,Rural,Mujer,2023.0,0.650749063670412,No
+188.0,Retencion 9EEB,Paraguarí,Rural,Mujer,2024.0,0.7404505386875612,No
+189.0,Retencion 9EEB,Paraguarí,Rural,Varón,2020.0,0.5938480853735091,No
+190.0,Retencion 9EEB,Paraguarí,Rural,Varón,2021.0,0.6305170239596469,No
+191.0,Retencion 9EEB,Paraguarí,Rural,Varón,2022.0,0.637090909090909,No
+192.0,Retencion 9EEB,Paraguarí,Rural,Varón,2023.0,0.6298482293423272,No
+193.0,Retencion 9EEB,Paraguarí,Rural,Varón,2024.0,0.7146529562982005,No
+194.0,Retencion 9EEB,Alto Paraná,Urbana,Mujer,2020.0,0.7638119360455913,No
+195.0,Retencion 9EEB,Alto Paraná,Urbana,Mujer,2021.0,0.7349669514750927,No
+196.0,Retencion 9EEB,Alto Paraná,Urbana,Mujer,2022.0,0.7580267558528428,No
+197.0,Retencion 9EEB,Alto Paraná,Urbana,Mujer,2023.0,0.8276122218030931,No
+198.0,Retencion 9EEB,Alto Paraná,Urbana,Mujer,2024.0,0.8235294117647058,No
+199.0,Retencion 9EEB,Alto Paraná,Urbana,Varón,2020.0,0.6342966114126448,No
+200.0,Retencion 9EEB,Alto Paraná,Urbana,Varón,2021.0,0.6362004487658938,No
+201.0,Retencion 9EEB,Alto Paraná,Urbana,Varón,2022.0,0.6453011302059142,No
+202.0,Retencion 9EEB,Alto Paraná,Urbana,Varón,2023.0,0.7140413887463657,No
+203.0,Retencion 9EEB,Alto Paraná,Urbana,Varón,2024.0,0.7343110504774898,No
+204.0,Retencion 9EEB,Alto Paraná,Rural,Mujer,2020.0,0.499496475327291,No
+205.0,Retencion 9EEB,Alto Paraná,Rural,Mujer,2021.0,0.5280539772727273,No
+206.0,Retencion 9EEB,Alto Paraná,Rural,Mujer,2022.0,0.5360784313725491,No
+207.0,Retencion 9EEB,Alto Paraná,Rural,Mujer,2023.0,0.5708390646492435,No
+208.0,Retencion 9EEB,Alto Paraná,Rural,Mujer,2024.0,0.5959963603275705,No
+209.0,Retencion 9EEB,Alto Paraná,Rural,Varón,2020.0,0.453857791225416,No
+210.0,Retencion 9EEB,Alto Paraná,Rural,Varón,2021.0,0.451510333863275,No
+211.0,Retencion 9EEB,Alto Paraná,Rural,Varón,2022.0,0.473555166374781,No
+212.0,Retencion 9EEB,Alto Paraná,Rural,Varón,2023.0,0.5007980845969673,No
+213.0,Retencion 9EEB,Alto Paraná,Rural,Varón,2024.0,0.5495194316757208,No
+214.0,Retencion 9EEB,Central,Urbana,Mujer,2020.0,0.8632402894697977,No
+215.0,Retencion 9EEB,Central,Urbana,Mujer,2021.0,0.8738293249419345,No
+216.0,Retencion 9EEB,Central,Urbana,Mujer,2022.0,0.862220538082607,No
+217.0,Retencion 9EEB,Central,Urbana,Mujer,2023.0,0.8925105143966354,No
+218.0,Retencion 9EEB,Central,Urbana,Mujer,2024.0,0.8897431832593532,No
+219.0,Retencion 9EEB,Central,Urbana,Varón,2020.0,0.7775026766595289,No
+220.0,Retencion 9EEB,Central,Urbana,Varón,2021.0,0.790918402185046,No
+221.0,Retencion 9EEB,Central,Urbana,Varón,2022.0,0.7912608039511593,No
+222.0,Retencion 9EEB,Central,Urbana,Varón,2023.0,0.8347497639282342,No
+223.0,Retencion 9EEB,Central,Urbana,Varón,2024.0,0.8454571592869465,No
+224.0,Retencion 9EEB,Central,Rural,Mujer,2020.0,0.710016835016835,No
+225.0,Retencion 9EEB,Central,Rural,Mujer,2021.0,0.7496567505720824,No
+226.0,Retencion 9EEB,Central,Rural,Mujer,2022.0,0.7288512911843277,No
+227.0,Retencion 9EEB,Central,Rural,Mujer,2023.0,0.75365141187926,No
+228.0,Retencion 9EEB,Central,Rural,Mujer,2024.0,0.7991513437057991,No
+229.0,Retencion 9EEB,Central,Rural,Varón,2020.0,0.6109822119102861,No
+230.0,Retencion 9EEB,Central,Rural,Varón,2021.0,0.6180722891566265,No
+231.0,Retencion 9EEB,Central,Rural,Varón,2022.0,0.6645187273459525,No
+232.0,Retencion 9EEB,Central,Rural,Varón,2023.0,0.6829166666666666,No
+233.0,Retencion 9EEB,Central,Rural,Varón,2024.0,0.7317466720451795,No
+234.0,Retencion 9EEB,Ñeembucú,Urbana,Mujer,2020.0,1.037128712871287,Sí
+235.0,Retencion 9EEB,Ñeembucú,Urbana,Mujer,2021.0,1.069879518072289,Sí
+236.0,Retencion 9EEB,Ñeembucú,Urbana,Mujer,2022.0,1.01187648456057,Sí
+237.0,Retencion 9EEB,Ñeembucú,Urbana,Mujer,2023.0,1.013888888888889,Sí
+238.0,Retencion 9EEB,Ñeembucú,Urbana,Mujer,2024.0,1.121546961325967,Sí
+239.0,Retencion 9EEB,Ñeembucú,Urbana,Varón,2020.0,0.9096774193548388,No
+240.0,Retencion 9EEB,Ñeembucú,Urbana,Varón,2021.0,0.952054794520548,No
+241.0,Retencion 9EEB,Ñeembucú,Urbana,Varón,2022.0,0.9498806682577564,No
+242.0,Retencion 9EEB,Ñeembucú,Urbana,Varón,2023.0,0.9727047146401984,No
+243.0,Retencion 9EEB,Ñeembucú,Urbana,Varón,2024.0,1.019704433497537,Sí
+244.0,Retencion 9EEB,Ñeembucú,Rural,Mujer,2020.0,0.5321100917431193,No
+245.0,Retencion 9EEB,Ñeembucú,Rural,Mujer,2021.0,0.4507042253521127,No
+246.0,Retencion 9EEB,Ñeembucú,Rural,Mujer,2022.0,0.5459770114942529,No
+247.0,Retencion 9EEB,Ñeembucú,Rural,Mujer,2023.0,0.5763888888888888,No
+248.0,Retencion 9EEB,Ñeembucú,Rural,Mujer,2024.0,0.5030674846625767,No
+249.0,Retencion 9EEB,Ñeembucú,Rural,Varón,2020.0,0.5353982300884956,No
+250.0,Retencion 9EEB,Ñeembucú,Rural,Varón,2021.0,0.4739336492890995,No
+251.0,Retencion 9EEB,Ñeembucú,Rural,Varón,2022.0,0.4318181818181818,No
+252.0,Retencion 9EEB,Ñeembucú,Rural,Varón,2023.0,0.492063492063492,No
+253.0,Retencion 9EEB,Ñeembucú,Rural,Varón,2024.0,0.5,No
+254.0,Retencion 9EEB,Amambay,Urbana,Mujer,2020.0,0.8040244969378828,No
+255.0,Retencion 9EEB,Amambay,Urbana,Mujer,2021.0,0.7541557305336833,No
+256.0,Retencion 9EEB,Amambay,Urbana,Mujer,2022.0,0.7416943521594684,No
+257.0,Retencion 9EEB,Amambay,Urbana,Mujer,2023.0,0.756975697569757,No
+258.0,Retencion 9EEB,Amambay,Urbana,Mujer,2024.0,0.8216845878136201,No
+259.0,Retencion 9EEB,Amambay,Urbana,Varón,2020.0,0.6567291311754685,No
+260.0,Retencion 9EEB,Amambay,Urbana,Varón,2021.0,0.6253186066270179,No
+261.0,Retencion 9EEB,Amambay,Urbana,Varón,2022.0,0.595895816890292,No
+262.0,Retencion 9EEB,Amambay,Urbana,Varón,2023.0,0.6788756388415673,No
+263.0,Retencion 9EEB,Amambay,Urbana,Varón,2024.0,0.6930379746835443,No
+264.0,Retencion 9EEB,Amambay,Rural,Mujer,2020.0,0.2109955423476968,No
+265.0,Retencion 9EEB,Amambay,Rural,Mujer,2021.0,0.2534435261707989,No
+266.0,Retencion 9EEB,Amambay,Rural,Mujer,2022.0,0.2873399715504978,No
+267.0,Retencion 9EEB,Amambay,Rural,Mujer,2023.0,0.2804487179487179,No
+268.0,Retencion 9EEB,Amambay,Rural,Mujer,2024.0,0.3310104529616725,No
+269.0,Retencion 9EEB,Amambay,Rural,Varón,2020.0,0.2065063649222065,No
+270.0,Retencion 9EEB,Amambay,Rural,Varón,2021.0,0.1929595827900912,No
+271.0,Retencion 9EEB,Amambay,Rural,Varón,2022.0,0.2113821138211382,No
+272.0,Retencion 9EEB,Amambay,Rural,Varón,2023.0,0.2176656151419558,No
+273.0,Retencion 9EEB,Amambay,Rural,Varón,2024.0,0.2893481717011129,No
+274.0,Retencion 9EEB,Canindeyú,Urbana,Mujer,2020.0,0.7460136674259681,No
+275.0,Retencion 9EEB,Canindeyú,Urbana,Mujer,2021.0,0.7774011299435029,No
+276.0,Retencion 9EEB,Canindeyú,Urbana,Mujer,2022.0,0.7721674876847291,No
+277.0,Retencion 9EEB,Canindeyú,Urbana,Mujer,2023.0,1.164989939637827,Sí
+278.0,Retencion 9EEB,Canindeyú,Urbana,Mujer,2024.0,0.8270777479892761,No
+279.0,Retencion 9EEB,Canindeyú,Urbana,Varón,2020.0,0.6892039258451472,No
+280.0,Retencion 9EEB,Canindeyú,Urbana,Varón,2021.0,0.6387487386478304,No
+281.0,Retencion 9EEB,Canindeyú,Urbana,Varón,2022.0,0.6681465038845728,No
+282.0,Retencion 9EEB,Canindeyú,Urbana,Varón,2023.0,1.052044609665428,Sí
+283.0,Retencion 9EEB,Canindeyú,Urbana,Varón,2024.0,0.7258426966292135,No
+284.0,Retencion 9EEB,Canindeyú,Rural,Mujer,2020.0,0.5189298334174659,No
+285.0,Retencion 9EEB,Canindeyú,Rural,Mujer,2021.0,0.5467436974789915,No
+286.0,Retencion 9EEB,Canindeyú,Rural,Mujer,2022.0,0.5629139072847682,No
+287.0,Retencion 9EEB,Canindeyú,Rural,Mujer,2023.0,0.6537921348314607,No
+288.0,Retencion 9EEB,Canindeyú,Rural,Mujer,2024.0,0.6612794612794612,No
+289.0,Retencion 9EEB,Canindeyú,Rural,Varón,2020.0,0.4717066545948393,No
+290.0,Retencion 9EEB,Canindeyú,Rural,Varón,2021.0,0.4741092636579572,No
+291.0,Retencion 9EEB,Canindeyú,Rural,Varón,2022.0,0.4880952380952381,No
+292.0,Retencion 9EEB,Canindeyú,Rural,Varón,2023.0,0.6229299363057325,No
+293.0,Retencion 9EEB,Canindeyú,Rural,Varón,2024.0,0.6364812419146184,No
+294.0,Retencion 9EEB,Presidente Hayes,Urbana,Mujer,2020.0,0.8405063291139241,No
+295.0,Retencion 9EEB,Presidente Hayes,Urbana,Mujer,2021.0,0.8121827411167513,No
+296.0,Retencion 9EEB,Presidente Hayes,Urbana,Mujer,2022.0,0.8046272493573264,No
+297.0,Retencion 9EEB,Presidente Hayes,Urbana,Mujer,2023.0,0.8436724565756824,No
+298.0,Retencion 9EEB,Presidente Hayes,Urbana,Mujer,2024.0,0.8217592592592593,No
+299.0,Retencion 9EEB,Presidente Hayes,Urbana,Varón,2020.0,0.6404494382022472,No
+300.0,Retencion 9EEB,Presidente Hayes,Urbana,Varón,2021.0,0.6674107142857143,No
+301.0,Retencion 9EEB,Presidente Hayes,Urbana,Varón,2022.0,0.7227272727272728,No
+302.0,Retencion 9EEB,Presidente Hayes,Urbana,Varón,2023.0,0.6973684210526315,No
+303.0,Retencion 9EEB,Presidente Hayes,Urbana,Varón,2024.0,0.7012987012987013,No
+304.0,Retencion 9EEB,Presidente Hayes,Rural,Mujer,2020.0,0.4543726235741445,No
+305.0,Retencion 9EEB,Presidente Hayes,Rural,Mujer,2021.0,0.4845650140318054,No
+306.0,Retencion 9EEB,Presidente Hayes,Rural,Mujer,2022.0,0.5240963855421686,No
+307.0,Retencion 9EEB,Presidente Hayes,Rural,Mujer,2023.0,0.4994840041279669,No
+308.0,Retencion 9EEB,Presidente Hayes,Rural,Mujer,2024.0,0.5592705167173252,No
+309.0,Retencion 9EEB,Presidente Hayes,Rural,Varón,2020.0,0.3969534050179211,No
+310.0,Retencion 9EEB,Presidente Hayes,Rural,Varón,2021.0,0.4167385677308024,No
+311.0,Retencion 9EEB,Presidente Hayes,Rural,Varón,2022.0,0.4211908931698774,No
+312.0,Retencion 9EEB,Presidente Hayes,Rural,Varón,2023.0,0.4503676470588235,No
+313.0,Retencion 9EEB,Presidente Hayes,Rural,Varón,2024.0,0.4790528233151184,No
+314.0,Retencion 9EEB,Boquerón,Urbana,Mujer,2020.0,1.210843373493976,Sí
+315.0,Retencion 9EEB,Boquerón,Urbana,Mujer,2021.0,1.109195402298851,Sí
+316.0,Retencion 9EEB,Boquerón,Urbana,Mujer,2022.0,1.241573033707865,Sí
+317.0,Retencion 9EEB,Boquerón,Urbana,Mujer,2023.0,1.204545454545455,Sí
+318.0,Retencion 9EEB,Boquerón,Urbana,Mujer,2024.0,1.098290598290598,Sí
+319.0,Retencion 9EEB,Boquerón,Urbana,Varón,2020.0,1.0,No
+320.0,Retencion 9EEB,Boquerón,Urbana,Varón,2021.0,1.208860759493671,Sí
+321.0,Retencion 9EEB,Boquerón,Urbana,Varón,2022.0,1.135802469135802,Sí
+322.0,Retencion 9EEB,Boquerón,Urbana,Varón,2023.0,1.015151515151515,Sí
+323.0,Retencion 9EEB,Boquerón,Urbana,Varón,2024.0,1.128440366972477,Sí
+324.0,Retencion 9EEB,Boquerón,Rural,Mujer,2020.0,0.3573943661971831,No
+325.0,Retencion 9EEB,Boquerón,Rural,Mujer,2021.0,0.4128440366972477,No
+326.0,Retencion 9EEB,Boquerón,Rural,Mujer,2022.0,0.4202898550724637,No
+327.0,Retencion 9EEB,Boquerón,Rural,Mujer,2023.0,0.388609715242881,No
+328.0,Retencion 9EEB,Boquerón,Rural,Mujer,2024.0,0.4770797962648557,No
+329.0,Retencion 9EEB,Boquerón,Rural,Varón,2020.0,0.2893939393939393,No
+330.0,Retencion 9EEB,Boquerón,Rural,Varón,2021.0,0.2972181551976574,No
+331.0,Retencion 9EEB,Boquerón,Rural,Varón,2022.0,0.3528528528528528,No
+332.0,Retencion 9EEB,Boquerón,Rural,Varón,2023.0,0.3265306122448979,No
+333.0,Retencion 9EEB,Boquerón,Rural,Varón,2024.0,0.3552238805970149,No
+334.0,Retencion 9EEB,Alto Paraguay,Urbana,Mujer,2020.0,0.7272727272727273,No
+335.0,Retencion 9EEB,Alto Paraguay,Urbana,Mujer,2021.0,0.7526881720430108,No
+336.0,Retencion 9EEB,Alto Paraguay,Urbana,Mujer,2022.0,0.6721311475409836,No
+337.0,Retencion 9EEB,Alto Paraguay,Urbana,Mujer,2023.0,0.8409090909090909,No
+338.0,Retencion 9EEB,Alto Paraguay,Urbana,Mujer,2024.0,0.8736842105263158,No
+339.0,Retencion 9EEB,Alto Paraguay,Urbana,Varón,2020.0,0.584,No
+340.0,Retencion 9EEB,Alto Paraguay,Urbana,Varón,2021.0,0.675,No
+341.0,Retencion 9EEB,Alto Paraguay,Urbana,Varón,2022.0,0.5546875,No
+342.0,Retencion 9EEB,Alto Paraguay,Urbana,Varón,2023.0,0.6893203883495146,No
+343.0,Retencion 9EEB,Alto Paraguay,Urbana,Varón,2024.0,0.7362637362637363,No
+344.0,Retencion 9EEB,Alto Paraguay,Rural,Mujer,2020.0,0.2945736434108527,No
+345.0,Retencion 9EEB,Alto Paraguay,Rural,Mujer,2021.0,0.2954545454545454,No
+346.0,Retencion 9EEB,Alto Paraguay,Rural,Mujer,2022.0,0.5145631067961165,No
+347.0,Retencion 9EEB,Alto Paraguay,Rural,Mujer,2023.0,0.4274809160305343,No
+348.0,Retencion 9EEB,Alto Paraguay,Rural,Mujer,2024.0,0.7571428571428571,No
+349.0,Retencion 9EEB,Alto Paraguay,Rural,Varón,2020.0,0.2533333333333333,No
+350.0,Retencion 9EEB,Alto Paraguay,Rural,Varón,2021.0,0.3829787234042553,No
+351.0,Retencion 9EEB,Alto Paraguay,Rural,Varón,2022.0,0.5263157894736842,No
+352.0,Retencion 9EEB,Alto Paraguay,Rural,Varón,2023.0,0.3550724637681159,No
+353.0,Retencion 9EEB,Alto Paraguay,Rural,Varón,2024.0,0.8813559322033898,No
+354.0,Retencion 3EM,Asunción,Urbana,Mujer,2020.0,0.8493150684931506,No
+355.0,Retencion 3EM,Asunción,Urbana,Mujer,2021.0,0.8980601741884402,No
+356.0,Retencion 3EM,Asunción,Urbana,Mujer,2022.0,0.9042383046781288,No
+357.0,Retencion 3EM,Asunción,Urbana,Mujer,2023.0,0.8883864337101747,No
+358.0,Retencion 3EM,Asunción,Urbana,Mujer,2024.0,0.9133550488599348,No
+359.0,Retencion 3EM,Asunción,Urbana,Varón,2020.0,0.7582073996873372,No
+360.0,Retencion 3EM,Asunción,Urbana,Varón,2021.0,0.7778999450247389,No
+361.0,Retencion 3EM,Asunción,Urbana,Varón,2022.0,0.7503692762186115,No
+362.0,Retencion 3EM,Asunción,Urbana,Varón,2023.0,0.7836734693877551,No
+363.0,Retencion 3EM,Asunción,Urbana,Varón,2024.0,0.8031511767052254,No
+364.0,Retencion 3EM,Concepción,Urbana,Mujer,2020.0,0.8114233907524931,No
+365.0,Retencion 3EM,Concepción,Urbana,Mujer,2021.0,0.8236994219653179,No
+366.0,Retencion 3EM,Concepción,Urbana,Mujer,2022.0,0.8032128514056225,No
+367.0,Retencion 3EM,Concepción,Urbana,Mujer,2023.0,0.8124362895005097,No
+368.0,Retencion 3EM,Concepción,Urbana,Mujer,2024.0,0.7963800904977375,No
+369.0,Retencion 3EM,Concepción,Urbana,Varón,2020.0,0.5387096774193548,No
+370.0,Retencion 3EM,Concepción,Urbana,Varón,2021.0,0.6367595818815331,No
+371.0,Retencion 3EM,Concepción,Urbana,Varón,2022.0,0.6568998109640832,No
+372.0,Retencion 3EM,Concepción,Urbana,Varón,2023.0,0.6372462488967343,No
+373.0,Retencion 3EM,Concepción,Urbana,Varón,2024.0,0.5697959183673469,No
+374.0,Retencion 3EM,Concepción,Rural,Mujer,2020.0,0.3113948919449902,No
+375.0,Retencion 3EM,Concepción,Rural,Mujer,2021.0,0.3413865546218487,No
+376.0,Retencion 3EM,Concepción,Rural,Mujer,2022.0,0.3544235924932976,No
+377.0,Retencion 3EM,Concepción,Rural,Mujer,2023.0,0.3884439359267734,No
+378.0,Retencion 3EM,Concepción,Rural,Mujer,2024.0,0.4183474300585556,No
+379.0,Retencion 3EM,Concepción,Rural,Varón,2020.0,0.2539539087211929,No
+380.0,Retencion 3EM,Concepción,Rural,Varón,2021.0,0.2916862376702677,No
+381.0,Retencion 3EM,Concepción,Rural,Varón,2022.0,0.3003913894324853,No
+382.0,Retencion 3EM,Concepción,Rural,Varón,2023.0,0.3255330213208528,No
+383.0,Retencion 3EM,Concepción,Rural,Varón,2024.0,0.3405196241017136,No
+384.0,Retencion 3EM,San Pedro,Urbana,Mujer,2020.0,0.8738656987295825,No
+385.0,Retencion 3EM,San Pedro,Urbana,Mujer,2021.0,0.9171220400728596,No
+386.0,Retencion 3EM,San Pedro,Urbana,Mujer,2022.0,0.8982742960944596,No
+387.0,Retencion 3EM,San Pedro,Urbana,Mujer,2023.0,0.8473154362416108,No
+388.0,Retencion 3EM,San Pedro,Urbana,Mujer,2024.0,0.8644214162348878,No
+389.0,Retencion 3EM,San Pedro,Urbana,Varón,2020.0,0.7003179650238474,No
+390.0,Retencion 3EM,San Pedro,Urbana,Varón,2021.0,0.6808510638297872,No
+391.0,Retencion 3EM,San Pedro,Urbana,Varón,2022.0,0.7635303913405496,No
+392.0,Retencion 3EM,San Pedro,Urbana,Varón,2023.0,0.6764490095377843,No
+393.0,Retencion 3EM,San Pedro,Urbana,Varón,2024.0,0.725,No
+394.0,Retencion 3EM,San Pedro,Rural,Mujer,2020.0,0.3238840702348212,No
+395.0,Retencion 3EM,San Pedro,Rural,Mujer,2021.0,0.3777292576419214,No
+396.0,Retencion 3EM,San Pedro,Rural,Mujer,2022.0,0.3619697292688126,No
+397.0,Retencion 3EM,San Pedro,Rural,Mujer,2023.0,0.3802212689094604,No
+398.0,Retencion 3EM,San Pedro,Rural,Mujer,2024.0,0.4431901840490797,No
+399.0,Retencion 3EM,San Pedro,Rural,Varón,2020.0,0.3109898674980514,No
+400.0,Retencion 3EM,San Pedro,Rural,Varón,2021.0,0.3263137924492506,No
+401.0,Retencion 3EM,San Pedro,Rural,Varón,2022.0,0.3146758992113868,No
+402.0,Retencion 3EM,San Pedro,Rural,Varón,2023.0,0.3446292873279934,No
+403.0,Retencion 3EM,San Pedro,Rural,Varón,2024.0,0.347986942328618,No
+404.0,Retencion 3EM,Cordillera,Urbana,Mujer,2020.0,1.061293031066331,Sí
+405.0,Retencion 3EM,Cordillera,Urbana,Mujer,2021.0,1.228596646072375,Sí
+406.0,Retencion 3EM,Cordillera,Urbana,Mujer,2022.0,1.143505903723887,Sí
+407.0,Retencion 3EM,Cordillera,Urbana,Mujer,2023.0,1.002553191489362,Sí
+408.0,Retencion 3EM,Cordillera,Urbana,Mujer,2024.0,1.031718061674009,Sí
+409.0,Retencion 3EM,Cordillera,Urbana,Varón,2020.0,0.8184615384615385,No
+410.0,Retencion 3EM,Cordillera,Urbana,Varón,2021.0,0.9459234608985024,No
+411.0,Retencion 3EM,Cordillera,Urbana,Varón,2022.0,0.95,No
+412.0,Retencion 3EM,Cordillera,Urbana,Varón,2023.0,0.8849206349206349,No
+413.0,Retencion 3EM,Cordillera,Urbana,Varón,2024.0,0.8264401772525849,No
+414.0,Retencion 3EM,Cordillera,Rural,Mujer,2020.0,0.3774560496380558,No
+415.0,Retencion 3EM,Cordillera,Rural,Mujer,2021.0,0.4330168776371308,No
+416.0,Retencion 3EM,Cordillera,Rural,Mujer,2022.0,0.4054206662902315,No
+417.0,Retencion 3EM,Cordillera,Rural,Mujer,2023.0,0.4061499039077514,No
+418.0,Retencion 3EM,Cordillera,Rural,Mujer,2024.0,0.4032042723631509,No
+419.0,Retencion 3EM,Cordillera,Rural,Varón,2020.0,0.3071264367816091,No
+420.0,Retencion 3EM,Cordillera,Rural,Varón,2021.0,0.3264621284755513,No
+421.0,Retencion 3EM,Cordillera,Rural,Varón,2022.0,0.3188976377952756,No
+422.0,Retencion 3EM,Cordillera,Rural,Varón,2023.0,0.3579676674364896,No
+423.0,Retencion 3EM,Cordillera,Rural,Varón,2024.0,0.3828775267538644,No
+424.0,Retencion 3EM,Guairá,Urbana,Mujer,2020.0,0.9796696315120712,No
+425.0,Retencion 3EM,Guairá,Urbana,Mujer,2021.0,1.049032258064516,Sí
+426.0,Retencion 3EM,Guairá,Urbana,Mujer,2022.0,1.010791366906475,Sí
+427.0,Retencion 3EM,Guairá,Urbana,Mujer,2023.0,0.961038961038961,No
+428.0,Retencion 3EM,Guairá,Urbana,Mujer,2024.0,0.9402390438247012,No
+429.0,Retencion 3EM,Guairá,Urbana,Varón,2020.0,0.7865655471289275,No
+430.0,Retencion 3EM,Guairá,Urbana,Varón,2021.0,0.7889502762430939,No
+431.0,Retencion 3EM,Guairá,Urbana,Varón,2022.0,0.8302502720348205,No
+432.0,Retencion 3EM,Guairá,Urbana,Varón,2023.0,0.8527472527472527,No
+433.0,Retencion 3EM,Guairá,Urbana,Varón,2024.0,0.8067685589519651,No
+434.0,Retencion 3EM,Guairá,Rural,Mujer,2020.0,0.2565217391304348,No
+435.0,Retencion 3EM,Guairá,Rural,Mujer,2021.0,0.2890173410404624,No
+436.0,Retencion 3EM,Guairá,Rural,Mujer,2022.0,0.3039145907473309,No
+437.0,Retencion 3EM,Guairá,Rural,Mujer,2023.0,0.3160237388724035,No
+438.0,Retencion 3EM,Guairá,Rural,Mujer,2024.0,0.3404255319148936,No
+439.0,Retencion 3EM,Guairá,Rural,Varón,2020.0,0.2532875929102344,No
+440.0,Retencion 3EM,Guairá,Rural,Varón,2021.0,0.2430972388955582,No
+441.0,Retencion 3EM,Guairá,Rural,Varón,2022.0,0.246273106738223,No
+442.0,Retencion 3EM,Guairá,Rural,Varón,2023.0,0.2957446808510638,No
+443.0,Retencion 3EM,Guairá,Rural,Varón,2024.0,0.2956521739130435,No
+444.0,Retencion 3EM,Caaguazú,Urbana,Mujer,2020.0,0.7785204991087344,No
+445.0,Retencion 3EM,Caaguazú,Urbana,Mujer,2021.0,0.8752952290977799,No
+446.0,Retencion 3EM,Caaguazú,Urbana,Mujer,2022.0,0.8315270935960591,No
+447.0,Retencion 3EM,Caaguazú,Urbana,Mujer,2023.0,0.810172570390554,No
+448.0,Retencion 3EM,Caaguazú,Urbana,Mujer,2024.0,0.8235844642021526,No
+449.0,Retencion 3EM,Caaguazú,Urbana,Varón,2020.0,0.6546854942233633,No
+450.0,Retencion 3EM,Caaguazú,Urbana,Varón,2021.0,0.6788951230038843,No
+451.0,Retencion 3EM,Caaguazú,Urbana,Varón,2022.0,0.7020920502092051,No
+452.0,Retencion 3EM,Caaguazú,Urbana,Varón,2023.0,0.6312849162011173,No
+453.0,Retencion 3EM,Caaguazú,Urbana,Varón,2024.0,0.6814086814086814,No
+454.0,Retencion 3EM,Caaguazú,Rural,Mujer,2020.0,0.3243367935409458,No
+455.0,Retencion 3EM,Caaguazú,Rural,Mujer,2021.0,0.3417447728911319,No
+456.0,Retencion 3EM,Caaguazú,Rural,Mujer,2022.0,0.3634984833164812,No
+457.0,Retencion 3EM,Caaguazú,Rural,Mujer,2023.0,0.4071569456184841,No
+458.0,Retencion 3EM,Caaguazú,Rural,Mujer,2024.0,0.4367029548989113,No
+459.0,Retencion 3EM,Caaguazú,Rural,Varón,2020.0,0.2908163265306122,No
+460.0,Retencion 3EM,Caaguazú,Rural,Varón,2021.0,0.3086690017513135,No
+461.0,Retencion 3EM,Caaguazú,Rural,Varón,2022.0,0.3048504079782411,No
+462.0,Retencion 3EM,Caaguazú,Rural,Varón,2023.0,0.3651922064244339,No
+463.0,Retencion 3EM,Caaguazú,Rural,Varón,2024.0,0.3696801112656467,No
+464.0,Retencion 3EM,Caazapá,Urbana,Mujer,2020.0,0.7984293193717278,No
+465.0,Retencion 3EM,Caazapá,Urbana,Mujer,2021.0,0.8345864661654135,No
+466.0,Retencion 3EM,Caazapá,Urbana,Mujer,2022.0,0.8872180451127819,No
+467.0,Retencion 3EM,Caazapá,Urbana,Mujer,2023.0,0.8948717948717949,No
+468.0,Retencion 3EM,Caazapá,Urbana,Mujer,2024.0,0.8014888337468983,No
+469.0,Retencion 3EM,Caazapá,Urbana,Varón,2020.0,0.611353711790393,No
+470.0,Retencion 3EM,Caazapá,Urbana,Varón,2021.0,0.6666666666666666,No
+471.0,Retencion 3EM,Caazapá,Urbana,Varón,2022.0,0.5740318906605922,No
+472.0,Retencion 3EM,Caazapá,Urbana,Varón,2023.0,0.6704805491990846,No
+473.0,Retencion 3EM,Caazapá,Urbana,Varón,2024.0,0.6604651162790698,No
+474.0,Retencion 3EM,Caazapá,Rural,Mujer,2020.0,0.3300142247510668,No
+475.0,Retencion 3EM,Caazapá,Rural,Mujer,2021.0,0.3713865752082312,No
+476.0,Retencion 3EM,Caazapá,Rural,Mujer,2022.0,0.3876719307182883,No
+477.0,Retencion 3EM,Caazapá,Rural,Mujer,2023.0,0.3889206167904054,No
+478.0,Retencion 3EM,Caazapá,Rural,Mujer,2024.0,0.3931034482758621,No
+479.0,Retencion 3EM,Caazapá,Rural,Varón,2020.0,0.2863070539419087,No
+480.0,Retencion 3EM,Caazapá,Rural,Varón,2021.0,0.3045553145336225,No
+481.0,Retencion 3EM,Caazapá,Rural,Varón,2022.0,0.3443910955914447,No
+482.0,Retencion 3EM,Caazapá,Rural,Varón,2023.0,0.3643373493975904,No
+483.0,Retencion 3EM,Caazapá,Rural,Varón,2024.0,0.3777660695468914,No
+484.0,Retencion 3EM,Itapúa,Urbana,Mujer,2020.0,0.7862660944206008,No
+485.0,Retencion 3EM,Itapúa,Urbana,Mujer,2021.0,0.8912359550561798,No
+486.0,Retencion 3EM,Itapúa,Urbana,Mujer,2022.0,0.8565683646112601,No
+487.0,Retencion 3EM,Itapúa,Urbana,Mujer,2023.0,0.7376664056382146,No
+488.0,Retencion 3EM,Itapúa,Urbana,Mujer,2024.0,0.7494916632777552,No
+489.0,Retencion 3EM,Itapúa,Urbana,Varón,2020.0,0.6200400801603206,No
+490.0,Retencion 3EM,Itapúa,Urbana,Varón,2021.0,0.6754098360655738,No
+491.0,Retencion 3EM,Itapúa,Urbana,Varón,2022.0,0.672463768115942,No
+492.0,Retencion 3EM,Itapúa,Urbana,Varón,2023.0,0.5857898715041572,No
+493.0,Retencion 3EM,Itapúa,Urbana,Varón,2024.0,0.6032448377581121,No
+494.0,Retencion 3EM,Itapúa,Rural,Mujer,2020.0,0.2222222222222222,No
+495.0,Retencion 3EM,Itapúa,Rural,Mujer,2021.0,0.2508771929824561,No
+496.0,Retencion 3EM,Itapúa,Rural,Mujer,2022.0,0.2387820512820513,No
+497.0,Retencion 3EM,Itapúa,Rural,Mujer,2023.0,0.3009003775776939,No
+498.0,Retencion 3EM,Itapúa,Rural,Mujer,2024.0,0.3023110555902561,No
+499.0,Retencion 3EM,Itapúa,Rural,Varón,2020.0,0.1754024709846499,No
+500.0,Retencion 3EM,Itapúa,Rural,Varón,2021.0,0.19839518555667,No
+501.0,Retencion 3EM,Itapúa,Rural,Varón,2022.0,0.18878812860676,No
+502.0,Retencion 3EM,Itapúa,Rural,Varón,2023.0,0.2333945917563665,No
+503.0,Retencion 3EM,Itapúa,Rural,Varón,2024.0,0.2510493179433368,No
+504.0,Retencion 3EM,Misiones,Urbana,Mujer,2020.0,0.753968253968254,No
+505.0,Retencion 3EM,Misiones,Urbana,Mujer,2021.0,0.8089591567852438,No
+506.0,Retencion 3EM,Misiones,Urbana,Mujer,2022.0,0.8155844155844156,No
+507.0,Retencion 3EM,Misiones,Urbana,Mujer,2023.0,0.8163558106169297,No
+508.0,Retencion 3EM,Misiones,Urbana,Mujer,2024.0,0.8202567760342369,No
+509.0,Retencion 3EM,Misiones,Urbana,Varón,2020.0,0.6023668639053255,No
+510.0,Retencion 3EM,Misiones,Urbana,Varón,2021.0,0.6611796982167353,No
+511.0,Retencion 3EM,Misiones,Urbana,Varón,2022.0,0.6629986244841816,No
+512.0,Retencion 3EM,Misiones,Urbana,Varón,2023.0,0.6447721179624665,No
+513.0,Retencion 3EM,Misiones,Urbana,Varón,2024.0,0.6094147582697201,No
+514.0,Retencion 3EM,Misiones,Rural,Mujer,2020.0,0.4288194444444444,No
+515.0,Retencion 3EM,Misiones,Rural,Mujer,2021.0,0.5275735294117647,No
+516.0,Retencion 3EM,Misiones,Rural,Mujer,2022.0,0.4649446494464944,No
+517.0,Retencion 3EM,Misiones,Rural,Mujer,2023.0,0.4694736842105263,No
+518.0,Retencion 3EM,Misiones,Rural,Mujer,2024.0,0.453125,No
+519.0,Retencion 3EM,Misiones,Rural,Varón,2020.0,0.3173076923076923,No
+520.0,Retencion 3EM,Misiones,Rural,Varón,2021.0,0.4425385934819897,No
+521.0,Retencion 3EM,Misiones,Rural,Varón,2022.0,0.4455958549222797,No
+522.0,Retencion 3EM,Misiones,Rural,Varón,2023.0,0.4290909090909091,No
+523.0,Retencion 3EM,Misiones,Rural,Varón,2024.0,0.4558232931726907,No
+524.0,Retencion 3EM,Paraguarí,Urbana,Mujer,2020.0,1.146944083224968,Sí
+525.0,Retencion 3EM,Paraguarí,Urbana,Mujer,2021.0,1.213010204081633,Sí
+526.0,Retencion 3EM,Paraguarí,Urbana,Mujer,2022.0,1.187734668335419,Sí
+527.0,Retencion 3EM,Paraguarí,Urbana,Mujer,2023.0,1.03015681544029,Sí
+528.0,Retencion 3EM,Paraguarí,Urbana,Mujer,2024.0,1.057766367137356,Sí
+529.0,Retencion 3EM,Paraguarí,Urbana,Varón,2020.0,0.8974056603773585,No
+530.0,Retencion 3EM,Paraguarí,Urbana,Varón,2021.0,0.9087837837837838,No
+531.0,Retencion 3EM,Paraguarí,Urbana,Varón,2022.0,1.045569620253165,Sí
+532.0,Retencion 3EM,Paraguarí,Urbana,Varón,2023.0,0.931930693069307,No
+533.0,Retencion 3EM,Paraguarí,Urbana,Varón,2024.0,0.9786700125470514,No
+534.0,Retencion 3EM,Paraguarí,Rural,Mujer,2020.0,0.3614775725593667,No
+535.0,Retencion 3EM,Paraguarí,Rural,Mujer,2021.0,0.419774011299435,No
+536.0,Retencion 3EM,Paraguarí,Rural,Mujer,2022.0,0.4226369656833233,No
+537.0,Retencion 3EM,Paraguarí,Rural,Mujer,2023.0,0.4781718963165075,No
+538.0,Retencion 3EM,Paraguarí,Rural,Mujer,2024.0,0.4902874902874903,No
+539.0,Retencion 3EM,Paraguarí,Rural,Varón,2020.0,0.3278767453057294,No
+540.0,Retencion 3EM,Paraguarí,Rural,Varón,2021.0,0.3983862834089763,No
+541.0,Retencion 3EM,Paraguarí,Rural,Varón,2022.0,0.4209413008989952,No
+542.0,Retencion 3EM,Paraguarí,Rural,Varón,2023.0,0.450721908349027,No
+543.0,Retencion 3EM,Paraguarí,Rural,Varón,2024.0,0.4419924337957124,No
+544.0,Retencion 3EM,Alto Paraná,Urbana,Mujer,2020.0,0.6135502210991788,No
+545.0,Retencion 3EM,Alto Paraná,Urbana,Mujer,2021.0,0.6341268573254514,No
+546.0,Retencion 3EM,Alto Paraná,Urbana,Mujer,2022.0,0.6433805569125549,No
+547.0,Retencion 3EM,Alto Paraná,Urbana,Mujer,2023.0,0.664239354123793,No
+548.0,Retencion 3EM,Alto Paraná,Urbana,Mujer,2024.0,0.6458165403836853,No
+549.0,Retencion 3EM,Alto Paraná,Urbana,Varón,2020.0,0.4634570765661253,No
+550.0,Retencion 3EM,Alto Paraná,Urbana,Varón,2021.0,0.4862196020633751,No
+551.0,Retencion 3EM,Alto Paraná,Urbana,Varón,2022.0,0.5070125169657669,No
+552.0,Retencion 3EM,Alto Paraná,Urbana,Varón,2023.0,0.5049141851254217,No
+553.0,Retencion 3EM,Alto Paraná,Urbana,Varón,2024.0,0.5234106207928197,No
+554.0,Retencion 3EM,Alto Paraná,Rural,Mujer,2020.0,0.2954048140043763,No
+555.0,Retencion 3EM,Alto Paraná,Rural,Mujer,2021.0,0.3421137166720205,No
+556.0,Retencion 3EM,Alto Paraná,Rural,Mujer,2022.0,0.308099173553719,No
+557.0,Retencion 3EM,Alto Paraná,Rural,Mujer,2023.0,0.3397113125209802,No
+558.0,Retencion 3EM,Alto Paraná,Rural,Mujer,2024.0,0.3661221590909091,No
+559.0,Retencion 3EM,Alto Paraná,Rural,Varón,2020.0,0.2477926516661919,No
+560.0,Retencion 3EM,Alto Paraná,Rural,Varón,2021.0,0.2757417102966841,No
+561.0,Retencion 3EM,Alto Paraná,Rural,Varón,2022.0,0.2586558044806517,No
+562.0,Retencion 3EM,Alto Paraná,Rural,Varón,2023.0,0.2892586989409985,No
+563.0,Retencion 3EM,Alto Paraná,Rural,Varón,2024.0,0.2966613672496025,No
+564.0,Retencion 3EM,Central,Urbana,Mujer,2020.0,0.7279557407280923,No
+565.0,Retencion 3EM,Central,Urbana,Mujer,2021.0,0.7801453819840365,No
+566.0,Retencion 3EM,Central,Urbana,Mujer,2022.0,0.77210086497581,No
+567.0,Retencion 3EM,Central,Urbana,Mujer,2023.0,0.7823807413971349,No
+568.0,Retencion 3EM,Central,Urbana,Mujer,2024.0,0.784895482130816,No
+569.0,Retencion 3EM,Central,Urbana,Varón,2020.0,0.5806213472777607,No
+570.0,Retencion 3EM,Central,Urbana,Varón,2021.0,0.6204598902534623,No
+571.0,Retencion 3EM,Central,Urbana,Varón,2022.0,0.6388059701492538,No
+572.0,Retencion 3EM,Central,Urbana,Varón,2023.0,0.6492906852248393,No
+573.0,Retencion 3EM,Central,Urbana,Varón,2024.0,0.6726527825196312,No
+574.0,Retencion 3EM,Central,Rural,Mujer,2020.0,0.3709864603481624,No
+575.0,Retencion 3EM,Central,Rural,Mujer,2021.0,0.3969648562300319,No
+576.0,Retencion 3EM,Central,Rural,Mujer,2022.0,0.3910181958962447,No
+577.0,Retencion 3EM,Central,Rural,Mujer,2023.0,0.4730639730639731,No
+578.0,Retencion 3EM,Central,Rural,Mujer,2024.0,0.4956521739130435,No
+579.0,Retencion 3EM,Central,Rural,Varón,2020.0,0.3289969188634029,No
+580.0,Retencion 3EM,Central,Rural,Varón,2021.0,0.3375994465582843,No
+581.0,Retencion 3EM,Central,Rural,Varón,2022.0,0.3360323886639676,No
+582.0,Retencion 3EM,Central,Rural,Varón,2023.0,0.4002320185614849,No
+583.0,Retencion 3EM,Central,Rural,Varón,2024.0,0.4289156626506024,No
+584.0,Retencion 3EM,Ñeembucú,Urbana,Mujer,2020.0,0.9331742243436754,No
+585.0,Retencion 3EM,Ñeembucú,Urbana,Mujer,2021.0,1.015,Sí
+586.0,Retencion 3EM,Ñeembucú,Urbana,Mujer,2022.0,1.002475247524752,Sí
+587.0,Retencion 3EM,Ñeembucú,Urbana,Mujer,2023.0,0.9331683168316832,No
+588.0,Retencion 3EM,Ñeembucú,Urbana,Mujer,2024.0,1.007228915662651,Sí
+589.0,Retencion 3EM,Ñeembucú,Urbana,Varón,2020.0,0.6964285714285714,No
+590.0,Retencion 3EM,Ñeembucú,Urbana,Varón,2021.0,0.8582089552238806,No
+591.0,Retencion 3EM,Ñeembucú,Urbana,Varón,2022.0,0.8925831202046036,No
+592.0,Retencion 3EM,Ñeembucú,Urbana,Varón,2023.0,0.8086021505376344,No
+593.0,Retencion 3EM,Ñeembucú,Urbana,Varón,2024.0,0.8401826484018264,No
+594.0,Retencion 3EM,Ñeembucú,Rural,Mujer,2020.0,0.2966101694915254,No
+595.0,Retencion 3EM,Ñeembucú,Rural,Mujer,2021.0,0.3754152823920266,No
+596.0,Retencion 3EM,Ñeembucú,Rural,Mujer,2022.0,0.3736654804270463,No
+597.0,Retencion 3EM,Ñeembucú,Rural,Mujer,2023.0,0.4678899082568807,No
+598.0,Retencion 3EM,Ñeembucú,Rural,Mujer,2024.0,0.4037558685446009,No
+599.0,Retencion 3EM,Ñeembucú,Rural,Varón,2020.0,0.2841225626740947,No
+600.0,Retencion 3EM,Ñeembucú,Rural,Varón,2021.0,0.2428571428571428,No
+601.0,Retencion 3EM,Ñeembucú,Rural,Varón,2022.0,0.3511904761904761,No
+602.0,Retencion 3EM,Ñeembucú,Rural,Varón,2023.0,0.4026548672566372,No
+603.0,Retencion 3EM,Ñeembucú,Rural,Varón,2024.0,0.3696682464454976,No
+604.0,Retencion 3EM,Amambay,Urbana,Mujer,2020.0,0.6614525139664804,No
+605.0,Retencion 3EM,Amambay,Urbana,Mujer,2021.0,0.6779661016949152,No
+606.0,Retencion 3EM,Amambay,Urbana,Mujer,2022.0,0.6563745019920318,No
+607.0,Retencion 3EM,Amambay,Urbana,Mujer,2023.0,0.6780402449693789,No
+608.0,Retencion 3EM,Amambay,Urbana,Mujer,2024.0,0.6500437445319335,No
+609.0,Retencion 3EM,Amambay,Urbana,Varón,2020.0,0.4912641315519013,No
+610.0,Retencion 3EM,Amambay,Urbana,Varón,2021.0,0.4820562560620756,No
+611.0,Retencion 3EM,Amambay,Urbana,Varón,2022.0,0.5004557885141294,No
+612.0,Retencion 3EM,Amambay,Urbana,Varón,2023.0,0.5076660988074957,No
+613.0,Retencion 3EM,Amambay,Urbana,Varón,2024.0,0.5590484282073067,No
+614.0,Retencion 3EM,Amambay,Rural,Mujer,2020.0,0.1105193075898801,No
+615.0,Retencion 3EM,Amambay,Rural,Mujer,2021.0,0.1188118811881188,No
+616.0,Retencion 3EM,Amambay,Rural,Mujer,2022.0,0.1018276762402088,No
+617.0,Retencion 3EM,Amambay,Rural,Mujer,2023.0,0.1277860326894502,No
+618.0,Retencion 3EM,Amambay,Rural,Mujer,2024.0,0.1446280991735537,No
+619.0,Retencion 3EM,Amambay,Rural,Varón,2020.0,0.0794451450189155,No
+620.0,Retencion 3EM,Amambay,Rural,Varón,2021.0,0.0847665847665847,No
+621.0,Retencion 3EM,Amambay,Rural,Varón,2022.0,0.0819861431870669,No
+622.0,Retencion 3EM,Amambay,Rural,Varón,2023.0,0.0947666195190947,No
+623.0,Retencion 3EM,Amambay,Rural,Varón,2024.0,0.0990873533246414,No
+624.0,Retencion 3EM,Canindeyú,Urbana,Mujer,2020.0,0.6415816326530612,No
+625.0,Retencion 3EM,Canindeyú,Urbana,Mujer,2021.0,0.6591511936339522,No
+626.0,Retencion 3EM,Canindeyú,Urbana,Mujer,2022.0,0.6466257668711657,No
+627.0,Retencion 3EM,Canindeyú,Urbana,Mujer,2023.0,0.591116173120729,No
+628.0,Retencion 3EM,Canindeyú,Urbana,Mujer,2024.0,0.6271186440677966,No
+629.0,Retencion 3EM,Canindeyú,Urbana,Varón,2020.0,0.5137614678899083,No
+630.0,Retencion 3EM,Canindeyú,Urbana,Varón,2021.0,0.5425400739827374,No
+631.0,Retencion 3EM,Canindeyú,Urbana,Varón,2022.0,0.4904386951631046,No
+632.0,Retencion 3EM,Canindeyú,Urbana,Varón,2023.0,0.4438386041439476,No
+633.0,Retencion 3EM,Canindeyú,Urbana,Varón,2024.0,0.4682139253279516,No
+634.0,Retencion 3EM,Canindeyú,Rural,Mujer,2020.0,0.29583532790809,No
+635.0,Retencion 3EM,Canindeyú,Rural,Mujer,2021.0,0.3193473193473193,No
+636.0,Retencion 3EM,Canindeyú,Rural,Mujer,2022.0,0.3203422053231939,No
+637.0,Retencion 3EM,Canindeyú,Rural,Mujer,2023.0,0.3472993437657748,No
+638.0,Retencion 3EM,Canindeyú,Rural,Mujer,2024.0,0.375,No
+639.0,Retencion 3EM,Canindeyú,Rural,Varón,2020.0,0.2765864332603939,No
+640.0,Retencion 3EM,Canindeyú,Rural,Varón,2021.0,0.2564637197664721,No
+641.0,Retencion 3EM,Canindeyú,Rural,Varón,2022.0,0.2622466216216216,No
+642.0,Retencion 3EM,Canindeyú,Rural,Varón,2023.0,0.2933454051607062,No
+643.0,Retencion 3EM,Canindeyú,Rural,Varón,2024.0,0.3201900237529691,No
+644.0,Retencion 3EM,Presidente Hayes,Urbana,Mujer,2020.0,0.564625850340136,No
+645.0,Retencion 3EM,Presidente Hayes,Urbana,Mujer,2021.0,0.7094017094017094,No
+646.0,Retencion 3EM,Presidente Hayes,Urbana,Mujer,2022.0,0.6534883720930232,No
+647.0,Retencion 3EM,Presidente Hayes,Urbana,Mujer,2023.0,0.7620253164556962,No
+648.0,Retencion 3EM,Presidente Hayes,Urbana,Mujer,2024.0,0.7030456852791879,No
+649.0,Retencion 3EM,Presidente Hayes,Urbana,Varón,2020.0,0.4941176470588235,No
+650.0,Retencion 3EM,Presidente Hayes,Urbana,Varón,2021.0,0.5274725274725275,No
+651.0,Retencion 3EM,Presidente Hayes,Urbana,Varón,2022.0,0.497029702970297,No
+652.0,Retencion 3EM,Presidente Hayes,Urbana,Varón,2023.0,0.5820224719101124,No
+653.0,Retencion 3EM,Presidente Hayes,Urbana,Varón,2024.0,0.640625,No
+654.0,Retencion 3EM,Presidente Hayes,Rural,Mujer,2020.0,0.2513181019332162,No
+655.0,Retencion 3EM,Presidente Hayes,Rural,Mujer,2021.0,0.3074817518248175,No
+656.0,Retencion 3EM,Presidente Hayes,Rural,Mujer,2022.0,0.32555879494655,No
+657.0,Retencion 3EM,Presidente Hayes,Rural,Mujer,2023.0,0.3250950570342205,No
+658.0,Retencion 3EM,Presidente Hayes,Rural,Mujer,2024.0,0.3227315247895229,No
+659.0,Retencion 3EM,Presidente Hayes,Rural,Varón,2020.0,0.2338511856091578,No
+660.0,Retencion 3EM,Presidente Hayes,Rural,Varón,2021.0,0.266609145815358,No
+661.0,Retencion 3EM,Presidente Hayes,Rural,Varón,2022.0,0.248220640569395,No
+662.0,Retencion 3EM,Presidente Hayes,Rural,Varón,2023.0,0.2831541218637993,No
+663.0,Retencion 3EM,Presidente Hayes,Rural,Varón,2024.0,0.3123382226056945,No
+664.0,Retencion 3EM,Boquerón,Urbana,Mujer,2020.0,0.972027972027972,No
+665.0,Retencion 3EM,Boquerón,Urbana,Mujer,2021.0,0.832258064516129,No
+666.0,Retencion 3EM,Boquerón,Urbana,Mujer,2022.0,0.8417721518987342,No
+667.0,Retencion 3EM,Boquerón,Urbana,Mujer,2023.0,0.9216867469879518,No
+668.0,Retencion 3EM,Boquerón,Urbana,Mujer,2024.0,0.8850574712643678,No
+669.0,Retencion 3EM,Boquerón,Urbana,Varón,2020.0,0.7086092715231788,No
+670.0,Retencion 3EM,Boquerón,Urbana,Varón,2021.0,0.6225165562913907,No
+671.0,Retencion 3EM,Boquerón,Urbana,Varón,2022.0,0.6081871345029239,No
+672.0,Retencion 3EM,Boquerón,Urbana,Varón,2023.0,0.5465116279069767,No
+673.0,Retencion 3EM,Boquerón,Urbana,Varón,2024.0,0.8987341772151899,No
+674.0,Retencion 3EM,Boquerón,Rural,Mujer,2020.0,0.1821493624772313,No
+675.0,Retencion 3EM,Boquerón,Rural,Mujer,2021.0,0.1886477462437395,No
+676.0,Retencion 3EM,Boquerón,Rural,Mujer,2022.0,0.2277580071174377,No
+677.0,Retencion 3EM,Boquerón,Rural,Mujer,2023.0,0.2200704225352112,No
+678.0,Retencion 3EM,Boquerón,Rural,Mujer,2024.0,0.273394495412844,No
+679.0,Retencion 3EM,Boquerón,Rural,Varón,2020.0,0.1398230088495575,No
+680.0,Retencion 3EM,Boquerón,Rural,Varón,2021.0,0.1625766871165644,No
+681.0,Retencion 3EM,Boquerón,Rural,Varón,2022.0,0.1705426356589147,No
+682.0,Retencion 3EM,Boquerón,Rural,Varón,2023.0,0.1909090909090909,No
+683.0,Retencion 3EM,Boquerón,Rural,Varón,2024.0,0.1522693997071742,No
+684.0,Retencion 3EM,Alto Paraguay,Urbana,Mujer,2020.0,0.4174757281553398,No
+685.0,Retencion 3EM,Alto Paraguay,Urbana,Mujer,2021.0,0.580952380952381,No
+686.0,Retencion 3EM,Alto Paraguay,Urbana,Mujer,2022.0,0.4895833333333333,No
+687.0,Retencion 3EM,Alto Paraguay,Urbana,Mujer,2023.0,0.5353535353535354,No
+688.0,Retencion 3EM,Alto Paraguay,Urbana,Mujer,2024.0,0.4838709677419355,No
+689.0,Retencion 3EM,Alto Paraguay,Urbana,Varón,2020.0,0.3394495412844037,No
+690.0,Retencion 3EM,Alto Paraguay,Urbana,Varón,2021.0,0.3308270676691729,No
+691.0,Retencion 3EM,Alto Paraguay,Urbana,Varón,2022.0,0.3166666666666666,No
+692.0,Retencion 3EM,Alto Paraguay,Urbana,Varón,2023.0,0.488,No
+693.0,Retencion 3EM,Alto Paraguay,Urbana,Varón,2024.0,0.55,No
+694.0,Retencion 3EM,Alto Paraguay,Rural,Mujer,2020.0,0.2085889570552147,No
+695.0,Retencion 3EM,Alto Paraguay,Rural,Mujer,2021.0,0.3314606741573033,No
+696.0,Retencion 3EM,Alto Paraguay,Rural,Mujer,2022.0,0.273972602739726,No
+697.0,Retencion 3EM,Alto Paraguay,Rural,Mujer,2023.0,0.2170542635658914,No
+698.0,Retencion 3EM,Alto Paraguay,Rural,Mujer,2024.0,0.2348484848484848,No
+699.0,Retencion 3EM,Alto Paraguay,Rural,Varón,2020.0,0.2011834319526627,No
+700.0,Retencion 3EM,Alto Paraguay,Rural,Varón,2021.0,0.2065217391304347,No
+701.0,Retencion 3EM,Alto Paraguay,Rural,Varón,2022.0,0.1635220125786163,No
+702.0,Retencion 3EM,Alto Paraguay,Rural,Varón,2023.0,0.16,No
+703.0,Retencion 3EM,Alto Paraguay,Rural,Varón,2024.0,0.2074468085106383,No
